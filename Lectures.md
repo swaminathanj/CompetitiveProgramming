@@ -78,3 +78,12 @@ Comparator from Java Collections
 ![Motivating example](observer.png)
 
 Polling to check if there was change of state is not a good option since it is going to increase the communication between the subject and its observers which can turn out to be inefficient.
+
+#### Bottomline: Polling to check for updates is inefficient.
+  - Increases inter-object communication greatly
+
+### Solution: Observer pattern
+#### Underlying principle: Strive for loosely coupled designs between objects that interact. 
+
+### How does it work
+
