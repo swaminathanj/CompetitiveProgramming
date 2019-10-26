@@ -18,7 +18,8 @@ Design patterns can be broadly classified into three types.
 ### Motivating example
 ![The Duck Example](strategy.png)
 
-Although **inheritance** is supposed to provide reusability, it becomes overly restrictive. Things become really complicated if WildDuck shares 
+Although **inheritance** is supposed to provide reusability, it becomes overly restrictive. We are forced to implement fly behavior for RubberDuck which does nothing.
+Things become really complicated if WildDuck shares 
   - quack behavior with CityDuck but not with RubberDuck and 
   - display behavior with RubberDuck but not with CityDuck.
 So, we can't push the behavior to Duck class. Instead, we end up duplicating code.
