@@ -55,7 +55,11 @@ class DuckTest {
 }
 ```
 
-**What did we achieve?** We removed the **quack** and **fly** behaviours (i.e. algorithms), encapuslated different types of quacking and flying in separate classes and injected them into the **Duck** class 
+**What did we achieve?** We removed the **quack** and **fly** behaviours (i.e. algorithms), encapuslated different types of quacking and flying in separate classes and injected them into the **Duck** class.
+
+To summarize,![Strategy Pattern in Principle](strategysummary.png)
+
+
 
 ### Real-life Use case
 Let's say you have list and you have a method to sort the contents of the list inbuilt in the List class. Now the sorting behavior is tightly coupled. The strategy pattern says we can decouple the 'sorting' behavior from the list implementation and move it outside and inject it to sort the list in different ways.
@@ -63,7 +67,5 @@ Let's say you have list and you have a method to sort the contents of the list i
 ### Use case from Java library
 Comparator from Java Collections
 
-### Underlying principle
-  - Use composition over inheritance to achive better flexibility.
 
 ###
