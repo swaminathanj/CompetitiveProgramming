@@ -22,7 +22,7 @@ Things become really complicated if WildDuck shares
   - quack behavior with MountainDuck but not with CloudDuck and 
   - display behavior with CouldDuck but not with MountainDuck.
 
-#### Bottomline: Inheritance sucks!
+#### Bottomline: Inheritance works hierarchically, not horizontally!
 
 ### Solution: Strategy pattern
 #### Underlying principle:  Code to an interface. 
