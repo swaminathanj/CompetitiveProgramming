@@ -68,5 +68,9 @@ Let's say you have list and you have a method to sort the contents of the list i
 ### Use case from Java library
 Comparator from Java Collections
 
+## 2. Observer pattern
 
-###
+### Type: Behavioral
+
+### Definition (from Head First Design Patterns)
+  - Observer pattern defines a one-to-many dependency between objects so that when the subject (observed) object changes state, all its dependents (observer objects) are automaticall notified.
