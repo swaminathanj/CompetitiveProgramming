@@ -7,4 +7,15 @@ Design patterns can be broadly classified into three types.
   - Behavioral - Relates to communication between objects 
   - Creational - Relates to object creation
   
+# 1. Strategy pattern
 
+## Type: Behavioral
+
+## Definition (from Head First Design Patterns)
+  - Stategy pattern defines a family of algorithms, encapsulates each one and makes them interchangeable.
+  - Strategy lets the algorithm be very independently from the clients that use it.
+
+## Underlying principle
+  - Use composition over inheritance to achive better flexibility.
+
+##
