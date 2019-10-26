@@ -17,6 +17,11 @@ Design patterns can be broadly classified into three types.
 
 ### Motivating example
 ![The Duck Example](strategy.png)
+
+Although **inheritance** is supposed to provide reusability, it becomes overly restrictive. Things become really complicated if WildDuck shares 
+  - quack behavior with CityDuck but not with RubberDuck and 
+  - display behavior with RubberDuck but not with CityDuck.
+So, we can't push the behavior to Duck class. Instead, we end up duplicating code.
   
 ### Use case
 Let's say you have list and you have a method to sort the contents of the list inbuilt in the List class. Now the sorting behavior is tightly coupled. The strategy pattern says we can decouple the 'sorting' behavior from the list implementation and move it outside and inject it to sort the list in different ways.
