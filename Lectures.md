@@ -57,8 +57,8 @@ class DuckTest {
 
 **What did we achieve?** We removed the **quack** and **fly** behaviours (i.e. algorithms), encapuslated different types of quacking and flying in separate classes and injected them into the **Duck** class.
 
-To summarize,!
-[Strategy Pattern in Principle](strategysummary.png)
+To summarize,
+![Strategy Pattern in Principle](strategysummary.png)
 
 
 
