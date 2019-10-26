@@ -15,10 +15,10 @@ Design patterns can be broadly classified into three types.
   - Stategy pattern defines a family of algorithms, encapsulates each one and makes them interchangeable.
   - Strategy lets the algorithm be very independent from the clients that use it. i.e. clients don't have to change if the algorithm changes.
   
-### Example scenario
+### Use case
 Let's say you have list and you have a method to sort the contents of the list inbuilt in the List class. Now the sorting behavior is tightly coupled. The strategy pattern says we can decouple the 'sorting' behavior from the list implementation and move it outside and inject it to sort the list in different ways.
 
-### Example from Java library
+### Use case from Java library
 Comparator from Java Collections
 
 ### Underlying principle
