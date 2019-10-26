@@ -21,12 +21,12 @@ Design patterns can be broadly classified into three types.
 Things become really complicated if WildDuck shares 
   - quack behavior with MountainDuck but not with CloudDuck and 
   - display behavior with CouldDuck but not with MountainDuck.
-  
-### Solution: Strategy pattern
-#### Underlying principle: 
-  - Code to an interface. Use composition over inheritance to achive better flexibility.
 
-##### Bottomline: Inheritance sucks!
+#### Bottomline: Inheritance sucks!
+
+### Solution: Strategy pattern
+#### Underlying principle:  Code to an interface. 
+  - Use composition over inheritance to achive better flexibility.
 
 ### Real-life Use case
 Let's say you have list and you have a method to sort the contents of the list inbuilt in the List class. Now the sorting behavior is tightly coupled. The strategy pattern says we can decouple the 'sorting' behavior from the list implementation and move it outside and inject it to sort the list in different ways.
