@@ -60,8 +60,6 @@ class DuckTest {
 To summarize,
 ![Strategy Pattern in Principle](strategysummary.png)
 
-
-
 ### Real-life Use case
 Let's say you have list and you have a method to sort the contents of the list inbuilt in the List class. Now the sorting behavior is tightly coupled. The strategy pattern says we can decouple the 'sorting' behavior from the list implementation and move it outside and inject it to sort the list in different ways.
 
@@ -73,4 +71,10 @@ Comparator from Java Collections
 ### Type: Behavioral
 
 ### Definition (from Head First Design Patterns)
-  - Observer pattern defines a one-to-many dependency between objects so that when the subject (observed) object changes state, all its dependents (observer objects) are automaticall notified.
+  - Observer pattern defines a one-to-many dependency between objects so that when the subject (observed object) changes state, all its dependents (observer objects) are automatically notified.
+  
+### Why is it needed?
+
+![Motivating example](observer.png)
+
+Polling to check if there was change of state is not a good option since it is going to increase the communication between the subject and its observers which can turn out to be inefficient.
