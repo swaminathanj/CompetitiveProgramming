@@ -26,14 +26,22 @@ Things become really complicated if WildDuck shares
 
 ### Solution: Strategy pattern
 #### Underlying principle: Code to an interface. 
-  - Use composition over inheritance to achieve better reusability.
+  - Use composition over inheritance to achieve better unconstrained reusability.
+
+#### How does it work?
+  - Separate the behaviors from the Duck class: quack(), fly()
+  - Define interfaces for each behavior: IQuackBehavior, IFlyBehavior
+  - Define different types of behaviors by implementing the respective interfaces.
+    - SimpleQuack, LoudQuack, NoQuack implement IQuackBehavior
+    - LowFly, HighFly, NoFly implement IFlyBehavior
+  - The client class (i.e. Duck) includes IQuackBehavior and IFlyBehavior as its attributes.
+  
+Now the DuckTest class can create Ducks with any combination of quack and fly behaviors.
 
 ![Strategy Pattern applied to Duck Example](strategypattern.png)
 
-Now the Client class can create Ducks with any combination of quack and fly behaviors.
-
 ``` java
-class Client {
+class DuckTest {
     public static void main(String[] args) {
         Duck wildDuck = new Duck(new SimpleQuack(), new HighFly());
         Duck rubberDuck = new Duck(new NoQuack(), new NoFly());
@@ -45,7 +53,6 @@ class Client {
     }
 }
 ```
-
 
 **What did we achieve?** We removed the **quack** and **fly** behaviours (i.e. algorithms), encapuslated different types of quacking and flying in separate classes and injected them into the **Duck** class 
 
