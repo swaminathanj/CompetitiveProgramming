@@ -25,8 +25,8 @@ Things become really complicated if WildDuck shares
 #### Bottomline: Inheritance sucks! It works hierarchically, but not horizontally!
 
 ### Solution: Strategy pattern
-#### Underlying principle:  Code to an interface. 
-  - Use composition over inheritance to achive better reusability.
+#### Underlying principle: Code to an interface. 
+  - Use composition over inheritance to achieve better reusability.
 
 ![Strategy Pattern applied to Duck Example](strategypattern.png)
 
