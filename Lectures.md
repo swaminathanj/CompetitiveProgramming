@@ -22,13 +22,32 @@ Things become really complicated if WildDuck shares
   - quack behavior with MountainDuck but not with CloudDuck and 
   - display behavior with CouldDuck but not with MountainDuck.
 
-#### Bottomline: Inheritance works hierarchically, not horizontally!
+#### Bottomline: Inheritance sucks! It works hierarchically, but not horizontally!
 
 ### Solution: Strategy pattern
 #### Underlying principle:  Code to an interface. 
-  - Use composition over inheritance to achive better flexibility.
+  - Use composition over inheritance to achive better reusability.
 
 ![Strategy Pattern applied to Duck Example](strategypattern.png)
+
+Now the Client class can create Ducks with any combination of quack and fly behaviors.
+
+``` java
+class Client {
+    public static void main(String[] args) {
+        Duck wildDuck = new Duck(new SimpleQuack(), new HighFly());
+        Duck rubberDuck = new Duck(new NoQuack(), new NoFly());
+        Duck cityDuck = new Duck(new SimpleQuack(), new LowFly());
+        
+        wildDuck.qb.quack();
+        rubberDuck.fb.fly();
+        cityDuck.qb.fly();
+    }
+}
+```
+
+
+**What did we achieve?** We removed the **quack** and **fly** behaviours (i.e. algorithms), encapuslated different types of quacking and flying in separate classes and injected them into the **Duck** class 
 
 ### Real-life Use case
 Let's say you have list and you have a method to sort the contents of the list inbuilt in the List class. Now the sorting behavior is tightly coupled. The strategy pattern says we can decouple the 'sorting' behavior from the list implementation and move it outside and inject it to sort the list in different ways.
