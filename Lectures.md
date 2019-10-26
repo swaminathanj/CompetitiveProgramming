@@ -73,9 +73,9 @@ Comparator from Java Collections
 ### Definition (from Head First Design Patterns)
   - Observer pattern defines a one-to-many dependency between objects so that when the subject (observed object) changes state, all its dependents (observer objects) are automatically notified.
   
-### Why is it needed?
+### Motivating example
 
-![Motivating example](observer.png)
+![MWeather Station](observer.png)
 
 Polling to check if there was change of state is not a good option since it is going to increase the communication between the subject and its observers which can turn out to be inefficient.
 
@@ -85,5 +85,5 @@ Polling to check if there was change of state is not a good option since it is g
 ### Solution: Observer pattern
 #### Underlying principle: Strive for loosely coupled designs between objects that interact. 
 
-### How does it work
+### How does it work?
 
