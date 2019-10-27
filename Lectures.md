@@ -144,24 +144,26 @@ Accoriding to Rober Martin, Observer pattern violates Single Responsibility Prin
   - definition
   
 ### Motivating example
+Two types of basic beverages: DeCaf and Espresso. A customer may order them as they are or may want to add one or more condiments to them. Each condiments comes with additional cost. It is possible to define a separate class for each combination of condiments. This can lead to class explosion. Check Page 81 of Head First Design Patterns.
+
+Another approach would be to introduce the condiments as part of Beverage (abstract) class (shownn below). 
 
 ![Beverage Example](decorator.png)
 
+This can also lead to a problem where a particular flavour don't apply for a beverage that extends Beverage. Example is Tea - mocha may not be added to tea. Implying that we are going against Interface Seggregation Principle.
 
-#### Bottomline: .
-  - add on
+The customer may want double mocha which is not possible.
+
+#### Bottomline: Composing changing and unchanging parts in a single class sucks!
+  - Inheritance alone is not good enough.
 
 ### Solution: Decorator pattern
 
-#### Terms
-  - The 'one' observed class is referred to as **Subject**, **Publisher**, or **Observable**.
-  - The 'many' subscriber classes are referred to as **Observer**s.
-  
-#### Underlying principle:  
-  - principle
+#### Underlying principle: Incorporate new behavior without modifying existing code
+  - Follow open/closed principle - open for extension and closed for modification 
 
 ### How does it work?
-  - some
+  - Implement condiments that share both **is-a** and **has-a** relationship with beverage.
 
 ![Decorator Pattern applied for Beverage Example](decoratorpattern.png)
 
