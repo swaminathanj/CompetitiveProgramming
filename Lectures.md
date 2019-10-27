@@ -165,6 +165,8 @@ The customer may want double mocha which is not possible.
 
 ### How does it work?
   - Implement condiments that share both **is-a** and **has-a** relationship with beverage.
+  - Has-a relationship is used to access the basic behavior.
+  - Is-a relationship is used to incorporate additional behavior.
 
 ![Decorator Pattern applied for Beverage Example](decoratorpattern.png)
 
