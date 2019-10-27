@@ -130,7 +130,7 @@ By implementing a 'push' based strategy, we prevented tonnes of potential redund
 ### Knotty issue
 Note that Observer has an instance of Subject in its definition. This implies Observer and Subject share 'has-a' relationship (although it is not explicitly shown in the diagram). This is required because the Observer may want to remove itself from the subscription in future and therefore store it as a instance variable. So, Subject is not really a part Observer in true sense.
 
-Accorinding to Rober Martin, Observer pattern violates Single Responsibility Principle. You can refer to a discussion on this topic in [Stack Overflow](https://stackoverflow.com/questions/28281853/does-the-observer-pattern-violate-single-responsibiliy-principle).
+Accoriding to Rober Martin, Observer pattern violates Single Responsibility Principle. You can refer to a discussion on this topic in [Stack Overflow](https://stackoverflow.com/questions/28281853/does-the-observer-pattern-violate-single-responsibiliy-principle).
 
 ### Observer Pattern in Java
 
