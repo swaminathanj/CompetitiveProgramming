@@ -126,3 +126,12 @@ By implementing a 'push' based strategy, we prevented tonnes of potential redund
 ### Use cases
   - YouTube subscription
   - Distributed computing
+  
+### Knotty issue
+Note that Observer has an instance of Subject in its definition. This implies Observer and Subject share 'has-a' relationship (although it is not explicitly shown in the diagram). This is required because the Observer may want to remove itself from the subscription in future and therefore store it as a instance variable. So, Subject is not really a part Observer in true sense.
+
+Accorinding to Rober Martin, Observer pattern violates Single Responsibility Principle.
+
+### Observer Pattern in Java
+
+[](https://www.baeldung.com/java-observer-pattern)
