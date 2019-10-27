@@ -87,11 +87,14 @@ In the presence of million subscribers (imagine distributed systems scenario), p
 ### Solution: Observer pattern
 
 #### Terms
-  - The one observed class is referred to as **Subject**.
-  - The many subscriber classes are referred to as **Observer**s.
+  - The 'one' observed class is referred to as **Subject**, **Publisher**, or **Observable**.
+  - The 'many' subscriber classes are referred to as **Observer**s.
   
 #### Underlying principle: Strive for loosely coupled designs between objects that interact. 
   - Adopt a 'push' based approach to send the updates
 
 ### How does it work?
+  - We could move the register, remove and update behavior to ISubject (and make it abstract class instead of interface).
+  - getState function remains the same returns the state.
+  - How does WeatherStation
 
