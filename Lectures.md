@@ -86,7 +86,7 @@ In the presence of million subscribers (imagine distributed systems scenario), p
 
 ### Solution: Observer pattern
 
-## Terms
+#### Terms
   - The one observed class is referred to as **Subject**.
   - The many subscriber classes are referred to as **Observer**s.
   
