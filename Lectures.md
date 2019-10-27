@@ -121,7 +121,7 @@ To summarize,
 ![Observer Pattern in Principle](observersummary.png)
 
 ### What did we achieve?
-By implementing a 'push' based strategy, we prevented tonnes of redundant communication between observable and several observers.
+By implementing a 'push' based strategy, we prevented tonnes of potential redundant communication between the observable and many observers.
 
 ### Use cases
   - YouTube subscription
