@@ -135,3 +135,59 @@ Accoriding to Rober Martin, Observer pattern violates Single Responsibility Prin
 ### Observer Pattern in Java
 
 [Java's Observer pattern](https://www.baeldung.com/java-observer-pattern) explained with an example. There are umpteen resources out there in the web.
+
+## 3. Decorator pattern
+
+### Type: Behavioral
+
+### Definition (from Head First Design Patterns)
+  - definition
+  
+### Motivating example
+
+![Beverage Example](decorator.png)
+
+
+#### Bottomline: .
+  - add on
+
+### Solution: Decorator pattern
+
+#### Terms
+  - The 'one' observed class is referred to as **Subject**, **Publisher**, or **Observable**.
+  - The 'many' subscriber classes are referred to as **Observer**s.
+  
+#### Underlying principle:  
+  - principle
+
+### How does it work?
+  - some
+
+![Decorator Pattern applied for Beverage Example](decoratorpattern.png)
+
+Now BeverageTest class can be implemented as follows:
+
+``` java
+class BeverageTest {
+    public static void main(String[] args) {
+
+    }
+}
+```
+To summarize,
+![Decorator Pattern in Principle](decoratorsummary.png)
+
+### What did we achieve?
+Write here
+
+### Use cases
+  - One
+  - Two
+  
+### Knotty issue
+
+
+### Observer Pattern in Java
+
+[Java's I/O Streams]() explained with an example. 
+
