@@ -141,7 +141,8 @@ Accoriding to Rober Martin, Observer pattern violates Single Responsibility Prin
 ### Type: Behavioral
 
 ### Definition (from Head First Design Patterns)
-  - definition
+  - The Decorator Pattern attaches additional responsibilities to an object dynamically.
+  - Decorators provide a fl exible alternative to subclassing for extending functionality.
   
 ### Motivating example
 Two types of basic beverages: DeCaf and Espresso. A customer may order them as they are or may want to add one or more condiments to them. Each condiments comes with additional cost. It is possible to define a separate class for each combination of condiments. This can lead to class explosion. Check Page 81 of Head First Design Patterns.
