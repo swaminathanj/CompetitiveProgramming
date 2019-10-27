@@ -134,4 +134,4 @@ Accorinding to Rober Martin, Observer pattern violates Single Responsibility Pri
 
 ### Observer Pattern in Java
 
-[](https://www.baeldung.com/java-observer-pattern)
+[Java's Observer pattern](https://www.baeldung.com/java-observer-pattern) explained with an example.
