@@ -98,3 +98,5 @@ In the presence of million subscribers (imagine distributed systems scenario), p
   - getState function remains the same returns the state.
   - How does WeatherStation
 
+![Observer Pattern applied for Weather Station](observerpattern.png)
+
