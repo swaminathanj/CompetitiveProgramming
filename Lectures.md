@@ -37,9 +37,9 @@ Things become really complicated if WildDuck shares
     - LowFly, HighFly, NoFly implement IFlyBehavior
   - The client class (i.e. Duck) includes IQuackBehavior and IFlyBehavior as its attributes.
   
-Now the DuckTest class can create Ducks with any combination of quack and fly behaviors.
-
 ![Strategy Pattern applied to Duck Example](strategypattern.png)
+
+Now the DuckTest class can create Ducks with any combination of quack and fly behaviors.
 
 ``` java
 class DuckTest {
@@ -81,7 +81,7 @@ Polling too frequently increases communication but state may not have changed. P
 
 In the presence of million subscribers (imagine distributed systems scenario), polling results in lots of unwanted traffic causing serious inefficiencies.
 
-#### Bottomline: Polling sucks! It works only if updates are made periodically.
+#### Bottomline: Polling sucks! It is clearly inefficient.
   - Increases inter-object communication most of which can be avoided.
 
 ### Solution: Observer pattern
@@ -94,9 +94,35 @@ In the presence of million subscribers (imagine distributed systems scenario), p
   - Adopt a 'push' based approach to send the updates
 
 ### How does it work?
+  - Define IWorkStation interface that specifies register, remove and notify behaviors.
+  - Implement WorkStation 
+  - Define ISubscriber interface that specifies update behavior. This will be invoked by WorkStation's notify.
   - We could move the register, remove and update behavior to ISubject (and make it abstract class instead of interface).
-  - getState function remains the same returns the state.
-  - How does WeatherStation
+  - The getTemparature function is retained allowing the observers to get the temparature, if they want to.
+  - We assume WeatherStation is like a server which runs forever when started until it is stopped. It also has sensors to sense the temperature and calls notify automatically from the __run__ method.
 
 ![Observer Pattern applied for Weather Station](observerpattern.png)
 
+Now WeatherDriver class can be implemented as follows:
+
+``` java
+class WeatherDriver {
+    public static void main(String[] args) {
+        WeatherStation ws = new WeatherStation();
+        SubscriberA sa = new SubscriberA(ws);
+        SubscriberB sb = new SubscriberB(ws);
+        
+        ws.register(sa);
+        ws.register(sb);
+    }
+}
+```
+To summarize,
+![Observer Pattern in Principle](observersummary.png)
+
+### What did we achieve?
+By implementing a 'push' based strategy, we prevented tonnes of redundant communication between observable and several observers.
+
+### Use cases
+  - YouTube subscription
+  - Distributed computing
