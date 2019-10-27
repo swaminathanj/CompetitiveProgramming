@@ -75,15 +75,23 @@ Comparator from Java Collections
   
 ### Motivating example
 
-![MWeather Station](observer.png)
+![Weather Station](observer.png)
 
-Polling to check if there was change of state is not a good option since it is going to increase the communication between the subject and its observers which can turn out to be inefficient.
+Polling too frequently increases communication but state may not have changed. Polling at longer time intervals causes the subscriber to lose state changes. How do the subscribers know when exactly to poll?
 
-#### Bottomline: Polling to check for updates is inefficient.
-  - Increases inter-object communication greatly
+In the presence of million subscribers (imagine distributed systems scenario), polling results in lots of unwanted traffic causing serious inefficiencies.
+
+#### Bottomline: Polling sucks! It works only if updates are made periodically.
+  - Increases inter-object communication most of which can be avoided.
 
 ### Solution: Observer pattern
+
+## Terms
+  - The one observed class is referred to as **Subject**.
+  - The many subscriber classes are referred to as **Observer**s.
+  
 #### Underlying principle: Strive for loosely coupled designs between objects that interact. 
+  - Adopt a 'push' based approach to send the updates
 
 ### How does it work?
 
