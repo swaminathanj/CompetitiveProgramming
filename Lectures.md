@@ -188,3 +188,45 @@ By using 'Decorator' pattern, we achieved the flexibility to dynamically add res
   - Input and Output stream classes in Java's I/O package.
   - Basic text data which can be encrypted with one or more encryption algorithms in any order.
   
+## 4. Factory Pattern
+
+### Type: Creational
+
+### Definition (from Head First Design Patterns)
+  - The Factory Method Pattern encapsulates object creation by letting subclasses decide what objects to create. i.e. create objects without exposing the creation logic.
+  - The Factory Method pattern is used when you don't know the type of object to create ahead in time.
+  
+### Motivating Example
+
+### Bottomline: 
+
+### Solution: Factory Pattern
+
+#### Underlying principle:
+
+### How does it work?
+
+### What did we achieve?
+
+### Use cases
+
+## 5. _____ Pattern
+
+### Type: 
+
+### Definition (from Head First Design Patterns)
+  - TBA
+  
+### Motivating Example
+
+### Bottomline: 
+
+### Solution: ____ Pattern
+
+#### Underlying principle:
+
+### How does it work?
+
+### What did we achieve?
+
+### Use cases
