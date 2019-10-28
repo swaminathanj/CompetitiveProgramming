@@ -188,7 +188,3 @@ By using 'Decorator' pattern, we achieved the flexibility to dynamically add res
   - Input and Output stream classes in Java's I/O package.
   - Basic text data which can be encrypted with one or more encryption algorithms in any order.
   
-### Observer Pattern in Java
-
-[Java's I/O Streams]() explained with an example. 
-
