@@ -94,9 +94,9 @@ In the presence of million subscribers (imagine distributed systems scenario), p
   - Adopt a 'push' based approach to send the updates
 
 ### How does it work?
-  - Define IWorkStation interface that specifies register, remove and notify behaviors.
-  - Implement WorkStation 
-  - Define ISubscriber interface that specifies update behavior. This will be invoked by WorkStation's notify.
+  - Define IWeatherStation interface that specifies register, remove and notify behaviors.
+  - Implement WeatherStation 
+  - Define ISubscriber interface that specifies update behavior. This will be invoked by WeatherStation's notify.
   - We could move the register, remove and update behavior to ISubject (and make it abstract class instead of interface).
   - The getTemparature function is retained allowing the observers to get the temparature, if they want to.
   - We assume WeatherStation is like a server which runs forever when started until it is stopped. It also has sensors to sense the temperature and calls notify automatically from the __run__ method.
