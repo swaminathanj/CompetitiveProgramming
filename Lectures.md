@@ -138,11 +138,11 @@ Accoriding to Rober Martin, Observer pattern violates Single Responsibility Prin
 
 ## 3. Decorator pattern
 
-### Type: Behavioral
+### Type: Structural
 
 ### Definition (from Head First Design Patterns)
   - The Decorator Pattern attaches additional responsibilities to an object dynamically.
-  - Decorators provide a fl exible alternative to subclassing for extending functionality.
+  - Decorators provide a flexible alternative to subclassing for extending functionality.
   
 ### Motivating example
 Two types of basic beverages: DeCaf and Espresso. A customer may order them as they are or may want to add one or more condiments to them. Each condiments comes with additional cost. It is possible to define a separate class for each combination of condiments. This can lead to class explosion. Check Page 81 of Head First Design Patterns.
@@ -155,12 +155,11 @@ This can also lead to a problem where a particular flavour don't apply for a bev
 
 The customer may want double mocha which is not possible.
 
-#### Bottomline: Composing changing and unchanging parts in a single class sucks!
-  - Inheritance alone is not good enough.
+#### Bottomline: Composing required and optional behaviors in a single class sucks!
 
 ### Solution: Decorator pattern
 
-#### Underlying principle: Incorporate new behavior without modifying existing code
+#### Underlying principle: Dynamically add new behavior to an object
   - Follow open/closed principle - open for extension and closed for modification 
 
 ### How does it work?
@@ -183,15 +182,12 @@ To summarize,
 ![Decorator Pattern in Principle](decoratorsummary.png)
 
 ### What did we achieve?
-Write here
+By using 'Decorator' pattern, we achieved the flexibility to dynamically add responsibilities to any object without having to meddle with the object in any way.
 
 ### Use cases
-  - One
-  - Two
+  - Input and Output stream classes in Java's I/O package.
+  - Basic text data which can be encrypted with one or more encryption algorithms in any order.
   
-### Knotty issue
-
-
 ### Observer Pattern in Java
 
 [Java's I/O Streams]() explained with an example. 
