@@ -194,7 +194,7 @@ By using 'Decorator' pattern, we achieved the flexibility to dynamically add res
 
 ### Definition (from Head First Design Patterns)
   - The Factory Method Pattern encapsulates object creation by letting subclasses decide what objects to create. i.e. create objects without exposing the creation logic.
-  - The Factory Method pattern is used when you don't know the type of object to create ahead in time.
+  - The Factory Method pattern is used when you don't know the type of object to create ahead in time or creation logic is complex.
   
 ### Motivating Example
 
