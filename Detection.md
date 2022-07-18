@@ -77,7 +77,7 @@ Aum Amma
     <td><a href="chainofresp/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
-    <td>Comman</td>
+    <td>Command</td>
     <td>Example</td>
     <td>
       <a href="command/First.java">First.java</a><br>
@@ -90,16 +90,42 @@ Aum Amma
     <td><a href="command/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
-    <td>Comman</td>
+    <td>Composite</td>
     <td>Example</td>
     <td>
-      <a href="command/First.java">First.java</a><br>
-      <a href="command/Second.java">Second.java</a><br>
-      <a href="command/Third.java">Third.java</a><br>
-      <a href="command/Fourth.java">Fourth.java</a><br>
+      <a href="composite/First.java">First.java</a><br>
+      <a href="composite/Second.java">Second.java</a><br>
+      <a href="composite/Third.java">Third.java</a><br>
+      <a href="composite/Fourth.java">Fourth.java</a><br>
     </td>
-    <td><a href="command/trace.csv">trace.csv</a></td>
-    <td><a href="command/calltree.png">calltree.png</a></td>
-    <td><a href="command/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="composite/trace.csv">trace.csv</a></td>
+    <td><a href="composite/calltree.png">calltree.png</a></td>
+    <td><a href="composite/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Decorator</td>
+    <td>Example</td>
+    <td>
+      <a href="decorator/First.java">First.java</a><br>
+      <a href="decorator/Second.java">Second.java</a><br>
+      <a href="decorator/Third.java">Third.java</a><br>
+      <a href="decorator/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="decorator/trace.csv">trace.csv</a></td>
+    <td><a href="decorator/calltree.png">calltree.png</a></td>
+    <td><a href="decorator/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Facade</td>
+    <td>Example</td>
+    <td>
+      <a href="facade/First.java">First.java</a><br>
+      <a href="facade/Second.java">Second.java</a><br>
+      <a href="facade/Third.java">Third.java</a><br>
+      <a href="facade/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="facade/trace.csv">trace.csv</a></td>
+    <td><a href="facade/calltree.png">calltree.png</a></td>
+    <td><a href="facade/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
 </table>
