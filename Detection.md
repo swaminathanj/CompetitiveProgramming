@@ -38,7 +38,7 @@ Aum Amma
     </td>
     <td><a href="adapter/BirdDemo.csv">BirdDemo.csv</a></td>
     <td><a href="adapter/BirdDemo_Calltree.png">BirdDemo_Calltree.png</a></td>
-    <td><a href="adapter/BirdDemo.png.png">BirdDemo.png.png</a></td>
+    <td><a href="adapter/BirdDemo.png">BirdDemo.png.png</a></td>
   </tr>
   <tr>
     <td>Bridge</td>
