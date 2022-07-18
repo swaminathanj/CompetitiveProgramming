@@ -50,4 +50,30 @@ Aum Amma
     <td><a href="bridge/calltree.png">calltree.png</a></td>
     <td><a href="bridge/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
+  <tr>
+    <td>Builder</td>
+    <td>Example</td>
+    <td>
+      <a href="builder/First.java">First.java</a><br>
+      <a href="builder/Second.java">Second.java</a><br>
+      <a href="builder/Third.java">Third.java</a><br>
+      <a href="builder/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="builder/trace.csv">trace.csv</a></td>
+    <td><a href="builder/calltree.png">calltree.png</a></td>
+    <td><a href="builder/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Chain of Responsibility</td>
+    <td>Example</td>
+    <td>
+      <a href="chainofresp/First.java">First.java</a><br>
+      <a href="chainofresp/Second.java">Second.java</a><br>
+      <a href="chainofresp/Third.java">Third.java</a><br>
+      <a href="chainofresp/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="chainofresp/trace.csv">trace.csv</a></td>
+    <td><a href="chainofresp/calltree.png">calltree.png</a></td>
+    <td><a href="chainofresp/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
 </table>
