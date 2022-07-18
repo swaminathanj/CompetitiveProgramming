@@ -24,5 +24,17 @@ Aum Amma
     <td><a href="abstractfactory/calltree.png">calltree.png</a></td>
     <td><a href="abstractfactory/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
-
+  <tr>
+    <td>Adapter</td>
+    <td>Example</td>
+    <td>
+      <a href="adapter/First.java">First.java</a><br>
+      <a href="adapter/Second.java">Second.java</a><br>
+      <a href="adapter/Third.java">Third.java</a><br>
+      <a href="adapter/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="adapter/trace.csv">trace.csv</a></td>
+    <td><a href="adapter/calltree.png">calltree.png</a></td>
+    <td><a href="adapter/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
 </table>
