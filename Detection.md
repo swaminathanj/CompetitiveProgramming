@@ -28,12 +28,15 @@ Aum Amma
     <td>Adapter</td>
     <td>Example</td>
     <td>
-      <a href="adapter/First.java">First.java</a><br>
-      <a href="adapter/Second.java">Second.java</a><br>
-      <a href="adapter/Third.java">Third.java</a><br>
-      <a href="adapter/Fourth.java">Fourth.java</a><br>
+      <a href="adapter/Bird.java">Bird.java</a><br>
+      <a href="adapter/BirdAdapter.java">BirdAdapter.java</a><br>
+      <a href="adapter/PlasticToyDuck.java">PlasticToyDuck.java</a><br>
+      <a href="adapter/Sparrow.java">Sparrow.java</a><br>
+      <a href="adapter/ToyDuck.java">ToyDuck.java</a><br>
+      <a href="adapter/BirdDemo.java">BirdDemo.java</a><br>
+      <a href="adapter/Readme.md">Readme</a><br>
     </td>
-    <td><a href="adapter/trace.csv">trace.csv</a></td>
+    <td><a href="adapter/BirdDemo.csv">BirdDemo.csv</a></td>
     <td><a href="adapter/calltree.png">calltree.png</a></td>
     <td><a href="adapter/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
