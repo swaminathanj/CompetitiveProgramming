@@ -128,4 +128,17 @@ Aum Amma
     <td><a href="facade/calltree.png">calltree.png</a></td>
     <td><a href="facade/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
+  <tr>
+    <td>Factory Method</td>
+    <td>Example</td>
+    <td>
+      <a href="factory/First.java">First.java</a><br>
+      <a href="factory/Second.java">Second.java</a><br>
+      <a href="factory/Third.java">Third.java</a><br>
+      <a href="factory/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="factory/trace.csv">trace.csv</a></td>
+    <td><a href="factory/calltree.png">calltree.png</a></td>
+    <td><a href="factory/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
 </table>
