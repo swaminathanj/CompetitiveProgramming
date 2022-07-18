@@ -26,7 +26,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Adapter</td>
-    <td>Example</td>
+    <td>Bird Demo</td>
     <td>
       <a href="adapter/Bird.java">Bird.java</a><br>
       <a href="adapter/BirdAdapter.java">BirdAdapter.java</a><br>
@@ -37,8 +37,8 @@ Aum Amma
       <a href="adapter/Readme.md">Readme</a><br>
     </td>
     <td><a href="adapter/BirdDemo.csv">BirdDemo.csv</a></td>
-    <td><a href="adapter/calltree.png">calltree.png</a></td>
-    <td><a href="adapter/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="adapter/BirdDemo_Calltree.png">BirdDemo_Calltree.png</a></td>
+    <td><a href="adapter/BirdDemo.png.png">BirdDemo.png.png</a></td>
   </tr>
   <tr>
     <td>Bridge</td>
