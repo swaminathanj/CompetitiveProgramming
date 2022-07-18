@@ -60,7 +60,7 @@ Aum Amma
       <a href="builder/Fourth.java">Fourth.java</a><br>
     </td>
     <td><a href="builder/trace.csv">trace.csv</a></td>
-    <td><a href="builder/calltree.png">calltree.png</a> <br> <a href="builder/calltree_withpattern.png">calltree.png</a></td>
+    <td><a href="builder/calltree.png">calltree.png</a></td>
     <td><a href="builder/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
