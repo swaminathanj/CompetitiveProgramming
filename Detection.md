@@ -152,6 +152,32 @@ Aum Amma
     </td>
     <td><a href="flyweight/trace.csv">trace.csv</a></td>
     <td><a href="flyweight/calltree.png">calltree.png</a></td>
-    <td><a href="flyweight/sequencediagram.png">sequence<br>diagram.png</a></td>
+    <td><a href="flyweight/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Interpreter</td>
+    <td>Example</td>
+    <td>
+      <a href="interpreter/First.java">First.java</a><br>
+      <a href="interpreter/Second.java">Second.java</a><br>
+      <a href="interpreter/Third.java">Third.java</a><br>
+      <a href="interpreter/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="interpreter/trace.csv">trace.csv</a></td>
+    <td><a href="interpreter/calltree.png">calltree.png</a></td>
+    <td><a href="interpreter/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Iterator</td>
+    <td>Example</td>
+    <td>
+      <a href="iterator/First.java">First.java</a><br>
+      <a href="iterator/Second.java">Second.java</a><br>
+      <a href="iterator/Third.java">Third.java</a><br>
+      <a href="iterator/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="iterator/trace.csv">trace.csv</a></td>
+    <td><a href="iterator/calltree.png">calltree.png</a></td>
+    <td><a href="iterator/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
 </table>
