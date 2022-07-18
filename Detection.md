@@ -15,9 +15,9 @@ Aum Amma
     <td>Abstract Factory</td>
     <td>Example</td>
     <td>Program</td>
-    <td>[trace.csv](abstractfactory/trace.csv)</td>
-    <td>(Call tree)[abstractfactory/calltree.png]</td>
-    <td>(Sequence diagram)[abstractfactory/sequencediagram.png]</td>
+    <td><a href="abstractfactory/trace.csv">trace.csv</a></td>
+    <td><a href="abstractfactory/calltree.png">calltree.png</a></td>
+    <td><a href="abstractfactory/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
 
 </table>
