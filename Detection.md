@@ -132,13 +132,13 @@ Aum Amma
     <td>Factory Method</td>
     <td>Example</td>
     <td>
-      <a href="factory/First.java">First.java</a><br>
-      <a href="factory/Second.java">Second.java</a><br>
-      <a href="factory/Third.java">Third.java</a><br>
-      <a href="factory/Fourth.java">Fourth.java</a><br>
+      <a href="factorymethod/First.java">First.java</a><br>
+      <a href="factorymethod/Second.java">Second.java</a><br>
+      <a href="factorymethod/Third.java">Third.java</a><br>
+      <a href="factorymethod/Fourth.java">Fourth.java</a><br>
     </td>
-    <td><a href="factory/trace.csv">trace.csv</a></td>
-    <td><a href="factory/calltree.png">calltree.png</a></td>
-    <td><a href="factory/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="factorymethod/trace.csv">trace.csv</a></td>
+    <td><a href="factorymethod/calltree.png">calltree.png</a></td>
+    <td><a href="factorymethod/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
 </table>
