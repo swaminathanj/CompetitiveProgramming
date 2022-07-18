@@ -22,7 +22,7 @@ Aum Amma
     </td>
     <td><a href="abstractfactory/trace.csv">trace.csv</a></td>
     <td><a href="abstractfactory/calltree.png">calltree.png</a></td>
-    <td><a href="abstractfactory/sequencediagram.png">sequencediagram.png</a> <br> <a href="builder/sequencediagram.png">sequencediagram_withpattern.png</a></td>
+    <td><a href="abstractfactory/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
     <td>Adapter</td>
@@ -35,7 +35,7 @@ Aum Amma
     </td>
     <td><a href="adapter/trace.csv">trace.csv</a></td>
     <td><a href="adapter/calltree.png">calltree.png</a></td>
-    <td><a href="adapter/sequencediagram.png">sequencediagram.png</a> <br> <a href="builder/sequencediagram.png">sequencediagram_withpattern.png</a></td>
+    <td><a href="adapter/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
     <td>Bridge</td>
@@ -48,7 +48,7 @@ Aum Amma
     </td>
     <td><a href="bridge/trace.csv">trace.csv</a></td>
     <td><a href="bridge/calltree.png">calltree.png</a></td>
-    <td><a href="bridge/sequencediagram.png">sequencediagram.png</a> <br> <a href="builder/sequencediagram.png">sequencediagram_withpattern.png</a></td>
+    <td><a href="bridge/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
     <td>Builder</td>
@@ -61,7 +61,7 @@ Aum Amma
     </td>
     <td><a href="builder/trace.csv">trace.csv</a></td>
     <td><a href="builder/calltree.png">calltree.png</a> <br> <a href="builder/calltree_withpattern.png">calltree.png</a></td>
-    <td><a href="builder/sequencediagram.png">sequencediagram.png</a> <br> <a href="builder/sequencediagram.png">sequencediagram_withpattern.png</a></td>
+    <td><a href="builder/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
     <td>Chain of Responsibility</td>
@@ -74,7 +74,7 @@ Aum Amma
     </td>
     <td><a href="chainofresp/trace.csv">trace.csv</a></td>
     <td><a href="chainofresp/calltree.png">calltree.png</a></td>
-    <td><a href="chainofresp/sequencediagram.png">sequencediagram.png</a> <br> <a href="builder/sequencediagram.png">sequencediagram_withpattern.png</a></td>
+    <td><a href="chainofresp/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
     <td>Comman</td>
@@ -87,7 +87,7 @@ Aum Amma
     </td>
     <td><a href="command/trace.csv">trace.csv</a></td>
     <td><a href="command/calltree.png">calltree.png</a></td>
-    <td><a href="command/sequencediagram.png">sequencediagram.png</a> <br> <a href="builder/sequencediagram.png">sequencediagram_withpattern.png</a></td>
+    <td><a href="command/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
     <td>Comman</td>
@@ -100,6 +100,6 @@ Aum Amma
     </td>
     <td><a href="command/trace.csv">trace.csv</a></td>
     <td><a href="command/calltree.png">calltree.png</a></td>
-    <td><a href="command/sequencediagram.png">sequencediagram.png</a> <br> <a href="builder/sequencediagram.png">sequencediagram_withpattern.png</a></td>
+    <td><a href="command/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
 </table>
