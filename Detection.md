@@ -180,4 +180,69 @@ Aum Amma
     <td><a href="iterator/calltree.png">calltree.png</a></td>
     <td><a href="iterator/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
+  <tr>
+    <td>Mediator</td>
+    <td>Example</td>
+    <td>
+      <a href="mediator/First.java">First.java</a><br>
+      <a href="mediator/Second.java">Second.java</a><br>
+      <a href="mediator/Third.java">Third.java</a><br>
+      <a href="mediator/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="mediator/trace.csv">trace.csv</a></td>
+    <td><a href="mediator/calltree.png">calltree.png</a></td>
+    <td><a href="mediator/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Memento</td>
+    <td>Example</td>
+    <td>
+      <a href="memento/First.java">First.java</a><br>
+      <a href="memento/Second.java">Second.java</a><br>
+      <a href="memento/Third.java">Third.java</a><br>
+      <a href="memento/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="memento/trace.csv">trace.csv</a></td>
+    <td><a href="memento/calltree.png">calltree.png</a></td>
+    <td><a href="memento/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Observer</td>
+    <td>Example</td>
+    <td>
+      <a href="observer/First.java">First.java</a><br>
+      <a href="observer/Second.java">Second.java</a><br>
+      <a href="observer/Third.java">Third.java</a><br>
+      <a href="observer/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="observer/trace.csv">trace.csv</a></td>
+    <td><a href="observer/calltree.png">calltree.png</a></td>
+    <td><a href="observer/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Prototype</td>
+    <td>Example</td>
+    <td>
+      <a href="prototype/First.java">First.java</a><br>
+      <a href="prototype/Second.java">Second.java</a><br>
+      <a href="prototype/Third.java">Third.java</a><br>
+      <a href="prototype/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="prototype/trace.csv">trace.csv</a></td>
+    <td><a href="prototype/calltree.png">calltree.png</a></td>
+    <td><a href="prototype/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Proxy</td>
+    <td>Example</td>
+    <td>
+      <a href="proxy/First.java">First.java</a><br>
+      <a href="proxy/Second.java">Second.java</a><br>
+      <a href="proxy/Third.java">Third.java</a><br>
+      <a href="proxy/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="proxy/trace.csv">trace.csv</a></td>
+    <td><a href="proxy/calltree.png">calltree.png</a></td>
+    <td><a href="proxy/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
 </table>
