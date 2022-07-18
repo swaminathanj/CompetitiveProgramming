@@ -141,4 +141,17 @@ Aum Amma
     <td><a href="factorymethod/calltree.png">calltree.png</a></td>
     <td><a href="factorymethod/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
+  <tr>
+    <td>Flyweight</td>
+    <td>Example</td>
+    <td>
+      <a href="flyweight/First.java">First.java</a><br>
+      <a href="flyweight/Second.java">Second.java</a><br>
+      <a href="flyweight/Third.java">Third.java</a><br>
+      <a href="flyweight/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="flyweight/trace.csv">trace.csv</a></td>
+    <td><a href="flyweight/calltree.png">calltree.png</a></td>
+    <td><a href="flyweight/sequencediagram.png">sequence<br>diagram.png</a></td>
+  </tr>
 </table>
