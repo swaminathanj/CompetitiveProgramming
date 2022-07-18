@@ -245,4 +245,69 @@ Aum Amma
     <td><a href="proxy/calltree.png">calltree.png</a></td>
     <td><a href="proxy/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
+  <tr>
+    <td>Singleton</td>
+    <td>Example</td>
+    <td>
+      <a href="singleton/First.java">First.java</a><br>
+      <a href="singleton/Second.java">Second.java</a><br>
+      <a href="singleton/Third.java">Third.java</a><br>
+      <a href="singleton/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="singleton/trace.csv">trace.csv</a></td>
+    <td><a href="singleton/calltree.png">calltree.png</a></td>
+    <td><a href="singleton/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>State</td>
+    <td>Example</td>
+    <td>
+      <a href="state/First.java">First.java</a><br>
+      <a href="state/Second.java">Second.java</a><br>
+      <a href="state/Third.java">Third.java</a><br>
+      <a href="state/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="state/trace.csv">trace.csv</a></td>
+    <td><a href="state/calltree.png">calltree.png</a></td>
+    <td><a href="state/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Strategy</td>
+    <td>Example</td>
+    <td>
+      <a href="strategy/First.java">First.java</a><br>
+      <a href="strategy/Second.java">Second.java</a><br>
+      <a href="strategy/Third.java">Third.java</a><br>
+      <a href="strategy/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="strategy/trace.csv">trace.csv</a></td>
+    <td><a href="strategy/calltree.png">calltree.png</a></td>
+    <td><a href="strategy/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Template Method</td>
+    <td>Example</td>
+    <td>
+      <a href="template/First.java">First.java</a><br>
+      <a href="template/Second.java">Second.java</a><br>
+      <a href="template/Third.java">Third.java</a><br>
+      <a href="template/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="template/trace.csv">trace.csv</a></td>
+    <td><a href="template/calltree.png">calltree.png</a></td>
+    <td><a href="template/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
+  <tr>
+    <td>Visitor</td>
+    <td>Example</td>
+    <td>
+      <a href="visitor/First.java">First.java</a><br>
+      <a href="visitor/Second.java">Second.java</a><br>
+      <a href="visitor/Third.java">Third.java</a><br>
+      <a href="visitor/Fourth.java">Fourth.java</a><br>
+    </td>
+    <td><a href="template/trace.csv">trace.csv</a></td>
+    <td><a href="template/calltree.png">calltree.png</a></td>
+    <td><a href="template/sequencediagram.png">sequencediagram.png</a></td>
+  </tr>
 </table>
