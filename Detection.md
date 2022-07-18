@@ -37,7 +37,7 @@ Aum Amma
       <a href="adapter/Readme.md">Readme</a><br>
     </td>
     <td><a href="adapter/BirdDemo.csv">BirdDemo.csv</a></td>
-    <td><a href="adapter/BirdDemo_Calltree.png">BirdDemo_Calltree.png</a></td>
+    <td><a href="adapter/BirdDemo_Calltree.png">calltree.png</a></td>
     <td><a href="adapter/BirdDemo.png">BirdDemo.png.png</a></td>
   </tr>
   <tr>
