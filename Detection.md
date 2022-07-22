@@ -102,7 +102,7 @@ Aum Amma
       <a href="composite/ProductCatalog.java">ProductCatalog.java</a><br>
     </td>
     <td><a href="composite/trace.csv">trace.csv</a></td>
-    <td><a href="composite/calltree.png">calltree.png</a> <br> <a href="composite/calltree.png">calltree_dp.png</a> </td>
+    <td><a href="composite/calltree.png">calltree.png</a> <br> <a href="composite/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="composite/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
