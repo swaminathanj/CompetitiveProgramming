@@ -71,15 +71,17 @@ Aum Amma
   </tr>
   <tr>
     <td>Builder</td>
-    <td>Example</td>
+    <td>Construction House</td>
     <td>
-      <a href="builder/First.java">First.java</a><br>
-      <a href="builder/Second.java">Second.java</a><br>
-      <a href="builder/Third.java">Third.java</a><br>
-      <a href="builder/Fourth.java">Fourth.java</a><br>
+      <a href="builder/ConcreteHouseBuilder.java">ConcreteHouseBuilder.java</a><br>
+      <a href="builder/ConstructionEngineer.java">ConstructionEngineer.java</a><br>
+      <a href="builder/ConstructionEngineerTest.java">ConstructionEngineerTest.java</a><br>
+      <a href="builder/House.java">House.java</a><br>
+      <a href="builder/HouseBuilder.java">HouseBuilder.java</a><br>
+      <a href="builder/PrefabricatedHouseBuilder.java">PrefabricatedHouseBuilder.java</a><br>
     </td>
     <td><a href="builder/trace.csv">trace.csv</a></td>
-    <td><a href="builder/calltree.png">calltree.png</a></td>
+    <td><a href="builder/calltree.png">calltree.png</a> <br> <a href="builder/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="builder/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
