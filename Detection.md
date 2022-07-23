@@ -123,7 +123,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Decorator</td>
-    <td>Flowerbouquet</td>
+    <td>Flower Bouquet</td>
     <td>
       <a href="decorator/FlowerBouquet.java">FlowerBouquet.java</a><br>
       <a href="decorator/FlowerBouquetDecorator.java">FlowerBouquetDecorator.java</a><br>
@@ -153,7 +153,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Factory Method</td>
-    <td>Pizzafactory</td>
+    <td>Pizza Factory</td>
     <td>
       <a href="factorymethod/BasePizzaFactory.java">BasePizzaFactory.java</a><br>
       <a href="factorymethod/CheesePizza.java">CheesePizza.java</a><br>
@@ -260,7 +260,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Proxy</td>
-    <td>ReportGenerator</td>
+    <td>Report Generator</td>
     <td>
       <a href="proxy/ReportGenerator.java">ReportGenerator.java</a><br>
       <a href="proxy/ReportGeneratorImpl.java">ReportGeneratorImpl.java</a><br>
@@ -274,7 +274,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Singleton</td>
-    <td>Example</td>
+    <td>Singleton Demo</td>
     <td>
       <a href="singleton/SingleObject.java">SingleObject.java</a><br>
       <a href="singleton/SingletonPatternDemo.java">SingletonPatternDemo.java</a><br>
