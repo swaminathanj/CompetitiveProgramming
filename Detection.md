@@ -252,13 +252,12 @@ Aum Amma
     <td>Singleton</td>
     <td>Example</td>
     <td>
-      <a href="singleton/First.java">First.java</a><br>
-      <a href="singleton/Second.java">Second.java</a><br>
-      <a href="singleton/Third.java">Third.java</a><br>
-      <a href="singleton/Fourth.java">Fourth.java</a><br>
+      <a href="singleton/SingleObject.java">SingleObject.java</a><br>
+      <a href="singleton/SingletonPatternDemo.java">SingletonPatternDemo.java</a><br>
+      
     </td>
     <td><a href="singleton/trace.csv">trace.csv</a></td>
-    <td><a href="singleton/calltree.png">calltree.png</a></td>
+    <td><a href="singleton/calltree.png">calltree.png</a> <br> <a href="singleton/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="singleton/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
