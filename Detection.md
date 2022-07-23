@@ -140,15 +140,18 @@ Aum Amma
   </tr>
   <tr>
     <td>Factory Method</td>
-    <td>Example</td>
+    <td>Pizzafactory</td>
     <td>
-      <a href="factorymethod/First.java">First.java</a><br>
-      <a href="factorymethod/Second.java">Second.java</a><br>
-      <a href="factorymethod/Third.java">Third.java</a><br>
-      <a href="factorymethod/Fourth.java">Fourth.java</a><br>
+      <a href="factorymethod/BasePizzaFactory.java">BasePizzaFactory.java</a><br>
+      <a href="factorymethod/CheesePizza.java">CheesePizza.java</a><br>
+      <a href="factorymethod/PepperoniPizza.java">PepperoniPizza.java</a><br>
+      <a href="factorymethod/Pizza.java">Pizza.java</a><br>
+      <a href="factorymethod/PizzaFactory.java">PizzaFactory.javaa</a><br>
+      <a href="factorymethod/PizzaFactoryTest.java">PizzaFactoryTest.java</a><br>
+      <a href="factorymethod/VeggiePizza.java">VeggiePizza.java</a><br>
     </td>
     <td><a href="factorymethod/trace.csv">trace.csv</a></td>
-    <td><a href="factorymethod/calltree.png">calltree.png</a></td>
+    <td><a href="factorymethod/calltree.png">calltree.png</a> <br> <a href="factorymethod/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="factorymethod/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
