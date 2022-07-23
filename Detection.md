@@ -13,7 +13,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Abstract Factory</td>
-    <td>GourmetPizzaFactory</td>
+    <td>Gourmet PizzaFactory</td>
     <td>
       <a href="abstractfactory/BasePizzaFactory.java">BasePizzaFactory.javaa</a><br>
       <a href="abstractfactory/BaseToppingFactory.java">BaseToppingFactory.java</a><br>
