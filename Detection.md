@@ -42,15 +42,18 @@ Aum Amma
   </tr>
   <tr>
     <td>Bridge</td>
-    <td>Example</td>
+    <td>Message</td>
     <td>
-      <a href="bridge/First.java">First.java</a><br>
-      <a href="bridge/Second.java">Second.java</a><br>
-      <a href="bridge/Third.java">Third.java</a><br>
-      <a href="bridge/Fourth.java">Fourth.java</a><br>
+      <a href="bridge/EmailMessage.java">EmailMessage.java</a><br>
+      <a href="bridge/EmailMessageSender.java">EmailMessageSender.java</a><br>
+      <a href="bridge/Message.java">Message.java</a><br>
+      <a href="bridge/MessageSender.java">MessageSender.java</a><br>
+      <a href="bridge/MessageTest.java">MessageTest.java</a><br>
+      <a href="bridge/TextMessage.java">TextMessage.java</a><br>
+      <a href="bridge/TextMessageSender.java">TextMessageSender.java</a><br>
     </td>
     <td><a href="bridge/trace.csv">trace.csv</a></td>
-    <td><a href="bridge/calltree.png">calltree.png</a></td>
+    <td><a href="bridge/calltree.png">calltree.png</a> <br> <a href="bridge/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="bridge/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
