@@ -97,7 +97,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Composite</td>
-    <td>Example</td>
+    <td>Catalog</td>
     <td>
       <a href="composite/CatalogComponent.java">CatalogComponent.java</a><br>
       <a href="composite/Composite_Catalog.java">Composite_Catalog.java</a><br>
@@ -110,15 +110,19 @@ Aum Amma
   </tr>
   <tr>
     <td>Decorator</td>
-    <td>Example</td>
+    <td>Flowerbouquet</td>
     <td>
-      <a href="decorator/First.java">First.java</a><br>
-      <a href="decorator/Second.java">Second.java</a><br>
-      <a href="decorator/Third.java">Third.java</a><br>
-      <a href="decorator/Fourth.java">Fourth.java</a><br>
+      <a href="decorator/FlowerBouquet.java">FlowerBouquet.java</a><br>
+      <a href="decorator/FlowerBouquetDecorator.java">FlowerBouquetDecorator.java</a><br>
+      <a href="decorator/Flower_Bouquet_Test.java">Flower_Bouquet_Test.java</a><br>
+      <a href="decorator/Glitter.java">Glitter.java</a><br>
+      <a href="decorator/OrchidBouquet.java">OrchidBouquet.java</a><br>
+      <a href="decorator/PaperWrapper.java">PaperWrapper.java</a><br>
+      <a href="decorator/RibbonBow.java">RibbonBow.java</a><br>
+      <a href="decorator/RoseBouquet.java">RoseBouquet.java</a><br>
     </td>
     <td><a href="decorator/trace.csv">trace.csv</a></td>
-    <td><a href="decorator/calltree.png">calltree.png</a></td>
+    <td><a href="decorator/calltree.png">calltree.png</a> <br> <a href="decorator/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="decorator/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
