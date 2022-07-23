@@ -5,7 +5,7 @@ public class MessageTest {
 	      Message textMessage=new TextMessage(textMessageSender);
 	      textMessage.send();
 	       MessageSender emailMessageSender=new EmailMessageSender();
-	       Message emailMessage=new TextMessage(emailMessageSender);
+	       Message emailMessage=new EmailMessage(emailMessageSender);
 	       emailMessage.send();
 	    }
 
