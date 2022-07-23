@@ -244,15 +244,16 @@ Aum Amma
   </tr>
   <tr>
     <td>Proxy</td>
-    <td>Example</td>
+    <td>ReportGenerator</td>
     <td>
-      <a href="proxy/First.java">First.java</a><br>
-      <a href="proxy/Second.java">Second.java</a><br>
-      <a href="proxy/Third.java">Third.java</a><br>
-      <a href="proxy/Fourth.java">Fourth.java</a><br>
+      <a href="proxy/ReportGenerator.java">ReportGenerator.java</a><br>
+      <a href="proxy/ReportGeneratorImpl.java">ReportGeneratorImpl.java</a><br>
+      <a href="proxy/ReportGeneratorImplProxy.java">ReportGeneratorImplProxy.java</a><br>
+      <a href="proxy/ReportGeneratorImplProxyTest.java">ReportGeneratorImplProxyTest.java</a><br>
+      <a href="proxy/Role.java">Role.java</a><br>
     </td>
     <td><a href="proxy/trace.csv">trace.csv</a></td>
-    <td><a href="proxy/calltree.png">calltree.png</a></td>
+    <td><a href="proxy/calltree.png">calltree.png</a> <br> <a href="proxy/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="proxy/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
