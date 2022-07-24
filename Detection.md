@@ -249,15 +249,17 @@ Aum Amma
   </tr>
   <tr>
     <td>Prototype</td>
-    <td>Example</td>
+    <td>Document Prototype</td>
     <td>
-      <a href="prototype/First.java">First.java</a><br>
-      <a href="prototype/Second.java">Second.java</a><br>
-      <a href="prototype/Third.java">Third.java</a><br>
-      <a href="prototype/Fourth.java">Fourth.java</a><br>
+      <a href="prototype/AuthorizedSignatory.java">AuthorizedSignatory.java</a><br>
+      <a href="prototype/DocumentPrototypeManager.java">DocumentPrototypeManager.java</a><br>
+      <a href="prototype/DocumentPrototypeManagerTest.java">DocumentPrototypeManagerTest.java</a><br>
+      <a href="prototype/NDAgreement.java">NDAgreement.java</a><br>
+      <a href="prototype/PrototypeCapableDocument.java">PrototypeCapableDocument.java</a><br>
+      <a href="prototype/TAndC.java">TAndC.java</a><br>
     </td>
     <td><a href="prototype/trace.csv">trace.csv</a></td>
-    <td><a href="prototype/calltree.png">calltree.png</a></td>
+    <td><a href="prototype/calltree.png">calltree.png</a> <br> <a href="prototype/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="prototype/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
