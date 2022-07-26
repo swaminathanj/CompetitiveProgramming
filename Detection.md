@@ -289,7 +289,7 @@ Aum Amma
   </tr>
   <tr>
     <td>State</td>
-    <td>Candy VendingMachine</td>
+    <td>VendingMachine</td>
     <td>
       <a href="state/CandyVendingMachine.java">CandyVendingMachine.java</a><br>
       <a href="state/CandyVendingMachineState.java">CandyVendingMachineState.java</a><br>
