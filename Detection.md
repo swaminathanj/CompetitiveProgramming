@@ -289,15 +289,18 @@ Aum Amma
   </tr>
   <tr>
     <td>State</td>
-    <td>Example</td>
+    <td>Candy VendingMachine</td>
     <td>
-      <a href="state/First.java">First.java</a><br>
-      <a href="state/Second.java">Second.java</a><br>
-      <a href="state/Third.java">Third.java</a><br>
-      <a href="state/Fourth.java">Fourth.java</a><br>
+      <a href="state/CandyVendingMachine.java">CandyVendingMachine.java</a><br>
+      <a href="state/CandyVendingMachineState.java">CandyVendingMachineState.java</a><br>
+      <a href="state/CandyVendingMachineTest.java">CandyVendingMachineTest.java</a><br>
+      <a href="state/ContainsCoinState.java">ContainsCoinState.java</a><br>
+      <a href="state/DispensedState.java">DispensedState.java</a><br>
+      <a href="state/NoCandyState.java">NoCandyState.java</a><br>
+      <a href="state/NoCoinState.java">NoCoinState.java</a><br>
     </td>
     <td><a href="state/trace.csv">trace.csv</a></td>
-    <td><a href="state/calltree.png">calltree.png</a></td>
+    <td><a href="state/calltree.png">calltree.png</a> <br> <a href="state/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="state/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
