@@ -305,15 +305,16 @@ Aum Amma
   </tr>
   <tr>
     <td>Strategy</td>
-    <td>Example</td>
+    <td>Encryptor</td>
     <td>
-      <a href="strategy/First.java">First.java</a><br>
-      <a href="strategy/Second.java">Second.java</a><br>
-      <a href="strategy/Third.java">Third.java</a><br>
-      <a href="strategy/Fourth.java">Fourth.java</a><br>
+      <a href="strategy/AesEncryptionStrategy.java">AesEncryptionStrategy.java</a><br>
+      <a href="strategy/BlowfishEncryptionStrategy.java">BlowfishEncryptionStrategy.java</a><br>
+      <a href="strategy/EncryptionStrategy.java">EncryptionStrategy.java</a><br>
+      <a href="strategy/Encryptor.java">Encryptor.java</a><br>
+      <a href="strategy/EncryptorTest.java">EncryptorTest.java</a><br>
     </td>
     <td><a href="strategy/trace.csv">trace.csv</a></td>
-    <td><a href="strategy/calltree.png">calltree.png</a></td>
+    <td><a href="strategy/calltree.png">calltree.png</a> <br> <a href="strategy/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="strategy/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
