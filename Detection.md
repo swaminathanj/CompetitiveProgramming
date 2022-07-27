@@ -319,15 +319,16 @@ Aum Amma
   </tr>
   <tr>
     <td>Template Method</td>
-    <td>Example</td>
+    <td>Pizza Maker</td>
     <td>
-      <a href="template/First.java">First.java</a><br>
-      <a href="template/Second.java">Second.java</a><br>
-      <a href="template/Third.java">Third.java</a><br>
-      <a href="template/Fourth.java">Fourth.java</a><br>
+      <a href="template/InHouseAssortedPizzaMaker.java">InHouseAssortedPizzaMaker.java</a><br>
+      <a href="template/NonVegPizzaMaker.java">NonVegPizzaMaker.java</a><br>
+      <a href="template/PizzaMaker.java">PizzaMaker.java</a><br>
+      <a href="template/PizzaMakerTest.java">PizzaMakerTest.java</a><br>
+      <a href="template/VegPizzaMaker.java">VegPizzaMaker.java</a><br>
     </td>
     <td><a href="template/trace.csv">trace.csv</a></td>
-    <td><a href="template/calltree.png">calltree.png</a></td>
+    <td><a href="template/calltree.png">calltree.png</a> <br> <a href="template/calltree_dp.png">calltree_dp.png</a></td>
     <td><a href="template/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
