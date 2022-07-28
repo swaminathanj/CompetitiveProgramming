@@ -236,15 +236,16 @@ Aum Amma
   </tr>
   <tr>
     <td>Observer</td>
-    <td>Example</td>
+    <td>Product Bidder</td>
     <td>
-      <a href="observer/First.java">First.java</a><br>
-      <a href="observer/Second.java">Second.java</a><br>
-      <a href="observer/Third.java">Third.java</a><br>
-      <a href="observer/Fourth.java">Fourth.java</a><br>
+      <a href="observer/Bidder.java">Bidder.java</a><br>
+      <a href="observer/Observer.java">Observer.java</a><br>
+      <a href="observer/ObserverTest.java">ObserverTest.java</a><br>
+      <a href="observer/Product.java">Product.java</a><br>
+      <a href="observer/Subject.java">Subject.java</a><br>
     </td>
     <td><a href="observer/trace.csv">trace.csv</a></td>
-    <td><a href="observer/calltree.png">calltree.png</a></td>
+    <td><a href="observer/calltree.png">calltree.png</a> <br> <a href="observer/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="observer/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
