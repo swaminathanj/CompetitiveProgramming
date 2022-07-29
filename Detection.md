@@ -334,15 +334,20 @@ Aum Amma
   </tr>
   <tr>
     <td>Visitor</td>
-    <td>Example</td>
+    <td>Mail Client Visitor</td>
     <td>
-      <a href="visitor/First.java">First.java</a><br>
-      <a href="visitor/Second.java">Second.java</a><br>
-      <a href="visitor/Third.java">Third.java</a><br>
-      <a href="visitor/Fourth.java">Fourth.java</a><br>
+      <a href="visitor/LinuxMailClientVisitor.java">LinuxMailClientVisitor.java</a><br>
+      <a href="visitor/MacMailClientVisitor.java">MacMailClientVisitor.java</a><br>
+      <a href="visitor/MailClient.java">MailClient.java</a><br>
+      <a href="visitor/MailClientVisitor.java">MailClientVisitor.java</a><br>
+      <a href="visitor/MailClientVisitorTest.java">MailClientVisitorTest.java</a><br>
+      <a href="visitor/OperaMailClient.java">OperaMailClient.java</a><br>
+      <a href="visitor/SquirrelMailClient.java">SquirrelMailClient.java</a><br>
+      <a href="visitor/WindowsMailClientVisitor.java">WindowsMailClientVisitor.java</a><br>
+      <a href="visitor/ZimbraMailClient.java">ZimbraMailClient.java</a><br>
     </td>
     <td><a href="template/trace.csv">trace.csv</a></td>
-    <td><a href="template/calltree.png">calltree.png</a></td>
+    <td><a href="template/calltree.png">calltree.png</a> <br> <a href="template/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="template/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
 </table>
