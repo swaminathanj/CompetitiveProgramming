@@ -346,8 +346,8 @@ Aum Amma
       <a href="visitor/WindowsMailClientVisitor.java">WindowsMailClientVisitor.java</a><br>
       <a href="visitor/ZimbraMailClient.java">ZimbraMailClient.java</a><br>
     </td>
-    <td><a href="template/trace.csv">trace.csv</a></td>
-    <td><a href="template/calltree.png">calltree.png</a> <br> <a href="template/calltree_dp.png">calltree_dp.png</a> </td>
-    <td><a href="template/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="visitor/trace.csv">trace.csv</a></td>
+    <td><a href="visitor/calltree.png">calltree.png</a> <br> <a href="visitor/calltree_dp.png">calltree_dp.png</a> </td>
+    <td><a href="visitor/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
 </table>
