@@ -86,15 +86,17 @@ Aum Amma
   </tr>
   <tr>
     <td>Chain of Responsibility</td>
-    <td>Example</td>
+    <td>Logger</td>
     <td>
-      <a href="chainofresp/First.java">First.java</a><br>
-      <a href="chainofresp/Second.java">Second.java</a><br>
-      <a href="chainofresp/Third.java">Third.java</a><br>
-      <a href="chainofresp/Fourth.java">Fourth.java</a><br>
+      <a href="chainofresp/ChainOfResponsibilityClient.java">ChainOfResponsibilityClient.java</a><br>
+      <a href="chainofresp/ConsoleBasedLogger.java">ConsoleBasedLogger.java</a><br>
+      <a href="chainofresp/DebugBasedLogger.java">DebugBasedLogger.java</a><br>
+      <a href="chainofresp/ErrorBasedLogger.java">ErrorBasedLogger.java</a><br>
+      <a href="chainofresp/Logger.java">Logger.java</a><br>
+      <a href="chainofresp/RequestorClient.java">RequestorClient.java</a><br>
     </td>
     <td><a href="chainofresp/trace.csv">trace.csv</a></td>
-    <td><a href="chainofresp/calltree.png">calltree.png</a></td>
+    <td><a href="chainofresp/calltree.png">calltree.png</a> <br> <a href="chainofresp/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="chainofresp/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
