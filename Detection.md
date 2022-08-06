@@ -221,15 +221,17 @@ Aum Amma
   </tr>
   <tr>
     <td>Mediator</td>
-    <td>Example</td>
+    <td>ArmedUnit Commander</td>
     <td>
-      <a href="mediator/First.java">First.java</a><br>
-      <a href="mediator/Second.java">Second.java</a><br>
-      <a href="mediator/Third.java">Third.java</a><br>
-      <a href="mediator/Fourth.java">Fourth.java</a><br>
+      <a href="mediator/ArmedUnit.java>ArmedUnit.java</a><br>
+      <a href="mediator/Commander.java">Commander.java</a><br>
+      <a href="mediator/CommanderImpl.java">CommanderImpl.javaa</a><br>
+      <a href="mediator/CommanderImplTest.java">CommanderImplTest.java</a><br>
+      <a href="mediator/SoldierUnit.java">SoldierUnit.java</a><br>
+      <a href="mediator/TankUnit.java">TankUnit.java</a><br>
     </td>
     <td><a href="mediator/trace.csv">trace.csv</a></td>
-    <td><a href="mediator/calltree.png">calltree.png</a></td>
+    <td><a href="mediator/calltree.png">calltree.png</a> <br> <a href="mediator/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="mediator/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
