@@ -208,15 +208,17 @@ Aum Amma
   </tr>
   <tr>
     <td>Iterator</td>
-    <td>Example</td>
+    <td>Pattern Iterator</td>
     <td>
-      <a href="iterator/First.java">First.java</a><br>
-      <a href="iterator/Second.java">Second.java</a><br>
-      <a href="iterator/Third.java">Third.java</a><br>
-      <a href="iterator/Fourth.java">Fourth.java</a><br>
+      <a href="iterator/DesignPattern.java">DesignPattern.java</a><br>
+      <a href="iterator/PatternAggregate.java">PatternAggregate.java</a><br>
+      <a href="iterator/PatternAggregateImpl.java">PatternAggregateImpl.java</a><br>
+      <a href="iterator/PatternAggregateImplTest.java">PatternAggregateImplTest.java</a><br>
+      <a href="iterator/PatternIterator.java">PatternIterator.java</a><br>
+      <a href="iterator/PatternIteratorImpl.java">PatternIteratorImpl.java</a><br>
     </td>
     <td><a href="iterator/trace.csv">trace.csv</a></td>
-    <td><a href="iterator/calltree.png">calltree.png</a></td>
+    <td><a href="iterator/calltree.png">calltree.png</a> <br> <a href="iterator/calltree.png">calltree.png</a> </td>
     <td><a href="iterator/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
