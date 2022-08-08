@@ -218,7 +218,7 @@ Aum Amma
       <a href="iterator/PatternIteratorImpl.java">PatternIteratorImpl.java</a><br>
     </td>
     <td><a href="iterator/trace.csv">trace.csv</a></td>
-    <td><a href="iterator/calltree.png">calltree.png</a> <br> <a href="iterator/calltree.png">calltree.png</a> </td>
+    <td><a href="iterator/calltree.png">calltree.png</a> <br> <a href="iterator/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="iterator/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
