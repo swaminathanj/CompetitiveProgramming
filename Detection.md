@@ -182,15 +182,17 @@ Aum Amma
   </tr>
   <tr>
     <td>Flyweight</td>
-    <td>Example</td>
+    <td>Race Car</td>
     <td>
-      <a href="flyweight/First.java">First.java</a><br>
-      <a href="flyweight/Second.java">Second.java</a><br>
-      <a href="flyweight/Third.java">Third.java</a><br>
-      <a href="flyweight/Fourth.java">Fourth.java</a><br>
+      <a href="flyweight/CarFactory.java">CarFactory.java</a><br>
+      <a href="flyweight/FlyweightMidgetCar.java">FlyweightMidgetCar.java</a><br>
+      <a href="flyweight/FlyweightSprintCar.java">FlyweightSprintCar.java</a><br>
+      <a href="flyweight/RaceCar.java">RaceCar.java</a><br>
+      <a href="flyweight/RaceCarClient.java">RaceCarClient.java</a><br>
+      <a href="flyweight/RaceCarClientTest.java">RaceCarClientTest.java</a><br>
     </td>
     <td><a href="flyweight/trace.csv">trace.csv</a></td>
-    <td><a href="flyweight/calltree.png">calltree.png</a></td>
+    <td><a href="flyweight/calltree.png">calltree.png</a> <br> <a href="flyweight/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="flyweight/sequencediagram.png">sequencediagram.png</a></td>
   </tr>
   <tr>
