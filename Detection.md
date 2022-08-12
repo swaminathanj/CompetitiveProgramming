@@ -39,7 +39,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Adapter</td>
-    <td>Bird Demo</td>
+    <td>Csv Adapter</td>
     <td>
       <a href="adapter/CsvAdapterImpl.java">CsvAdapterImpl.java</a><br>
       <a href="adapter/CsvFormattable.java">CsvFormattable.java</a><br>
