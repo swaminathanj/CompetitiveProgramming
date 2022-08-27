@@ -197,7 +197,7 @@ Aum Amma
   </tr>
   <tr>
     <td>Interpreter</td>
-    <td>Example</td>
+    <td>Expression Parser</td>
     <td>
       <a href="interpreter/AdditionExpression.java">AdditionExpression.java</a><br>
       <a href="interpreter/Expression.java">Expression.java</a><br>
