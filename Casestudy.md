@@ -9,4 +9,13 @@ Aum Amma
     <th>Detected<br>Design Pattern</th>
     <th>DP Instances</th>
   </tr>
+   <tr>
+    <td>JHotDraw_DrawApplication</td>
+    <td>
+      <a href="JHotDraw 5.1-Source Code/AbstractConnector.java">AbstractConnector.java</a><br>
+       </td>
+    <td><a href="JHotDraw_DrawApplication/trace_100k.csv">trace_100k.csv</a></td>
+     <td> Adapter <br> Bridge <br> Proxy </td>
+     <td><a href="JHotDraw_DrawApplication/Adapter_100k_result.csv">result_100k.csv</a></td>
+  </tr>
 
