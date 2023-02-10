@@ -16,6 +16,6 @@ Aum Amma
        </td>
     <td><a href="JHotDraw_DrawApplication/trace_100k.csv">trace_100k.csv</a></td>
      <td> Adapter <br> Bridge <br> Proxy </td>
-     <td><a href="JHotDraw_DrawApplication/Adapter_100k_result.csv">result_100k.csv</a></td>
+     <td><a href="JHotDraw_DrawApplication/Adapter100k_result.csv">Adapter100k_result.csv</a></td>
   </tr>
 
