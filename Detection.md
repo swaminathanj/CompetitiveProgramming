@@ -1,4 +1,4 @@
-<p style='color.white'>Aum Amriteswaryai Namah</p>
+<p style='color.red'>Aum Amriteswaryai Namah</p>
 
 # Design Pattern Detection
 
