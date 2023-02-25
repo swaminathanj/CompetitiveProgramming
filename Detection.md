@@ -12,7 +12,7 @@
     <th>Highlighted<br>Sequence diagram</th>
   </tr>
   <tr>
-    <td>Abstract Factory <br> <a href="abstractfactory/OtherExamples">(5)</a></td>
+    <td>Abstract Factory <br> <a href="abstractfactory/OtherExamples">(5 more examples)</a></td>
     <td>Gourmet PizzaFactory</td>
     <td>
       <a href="abstractfactory/BasePizzaFactory.java">BasePizzaFactory.javaa</a><br>
