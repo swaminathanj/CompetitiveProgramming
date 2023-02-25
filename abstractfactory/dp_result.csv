@@ -1,0 +1,5 @@
+x,m,y,n,z,q,p,w,r
+CheesePizza:1,addIngredients,GourmetToppingFactory:1,createCheese,GoatCheese:1,GoatCheese,createSauce,CaliforniaOilSauce:1,CaliforniaOilSauce
+CheesePizza:1,addIngredients,GourmetToppingFactory:1,createSauce,CaliforniaOilSauce:1,CaliforniaOilSauce,createCheese,GoatCheese:1,GoatCheese
+VeggiePizza:1,addIngredients,GourmetToppingFactory:2,createCheese,GoatCheese:2,GoatCheese,createSauce,CaliforniaOilSauce:2,CaliforniaOilSauce
+VeggiePizza:1,addIngredients,GourmetToppingFactory:2,createSauce,CaliforniaOilSauce:2,CaliforniaOilSauce,createCheese,GoatCheese:2,GoatCheese
