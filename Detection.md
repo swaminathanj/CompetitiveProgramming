@@ -1,4 +1,4 @@
-// Aum Amma
+###### Aum Amriteswaryai Namah
 
 # Design Pattern Detection
 
