@@ -13,6 +13,7 @@ The table below provides the complete details of experiments carried out for des
     <th>Augmented<br>Call tree</th>
     <th>Sequence diagram</th>
     <th>Detected<br>DP Instances</th>
+    <th>DP_UI</th>
   </tr>
   <tr>
     <td>Abstract Factory <br> <a href="abstractfactory/OtherExamples">(5 more examples)</a></td>
