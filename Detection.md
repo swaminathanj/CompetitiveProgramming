@@ -1,6 +1,8 @@
 // Aum Amma
 
-# Design Pattern Specification and Detection
+# Design Pattern Detection
+
+The table below provides the complete details of experiments carried out for design pattern detection based on our approach. Please visit the (JHotDraw)[CaseStudy/JHotDraw 5.1]
 
 <table>
   <tr>
