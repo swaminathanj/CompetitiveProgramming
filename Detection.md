@@ -11,7 +11,8 @@ The table below provides the complete details of experiments carried out for des
     <th>Program<br>(Source code)</th>
     <th>Execution<br>Trace</th>
     <th>Augmented<br>Call tree</th>
-    <th>Highlighted<br>Sequence diagram</th>
+    <th>Sequence diagram</th>
+    <th>DP Instances</th>
   </tr>
   <tr>
     <td>Abstract Factory <br> <a href="abstractfactory/OtherExamples">(5 more examples)</a></td>
