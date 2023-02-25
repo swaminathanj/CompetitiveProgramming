@@ -45,7 +45,7 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="abstractfactory/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Adapter</td>
+    <td>Adapter <br> <a href="adapter/OtherExamples">(5 more examples)</a></td>
     <td>Csv Adapter</td>
     <td>
       <a href="adapter/CsvAdapterImpl.java">CsvAdapterImpl.java</a><br>
