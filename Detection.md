@@ -2,7 +2,8 @@
 
 # Design Pattern Detection
 
-The table below provides the complete details of experiments carried out for design pattern detection based on our approach. Please visit the [JHotDraw Case Study](DesignPatterns/CaseStudy/JHotDraw 5.1/) for the results of large open source case study.
+The table below provides the complete details of experiments carried out for design pattern detection based on our approach. Please visit the 
+<a href="CaseStudy/JHotDraw 5.1">(JHotDraw Case Study)</a> for the results of large open source case study.
 
 <table>
   <tr>
