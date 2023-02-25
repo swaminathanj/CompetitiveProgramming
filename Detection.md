@@ -5,7 +5,7 @@
 <table>
   <tr>
     <th>Design Pattern</th>
-    <th>Example<br>Scenario</th>
+    <th>Representative<br>Example</th>
     <th>Program<br>(Source code)</th>
     <th>Execution<br>Trace</th>
     <th>Augmented<br>Call tree</th>
