@@ -1,6 +1,6 @@
-Aum Amma
+// Aum Amma
 
-# Design Pattern Detection
+# Design Pattern Specification and Detection
 
 <table>
   <tr>
