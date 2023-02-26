@@ -1,0 +1,3 @@
+x,m,y,n,z,q,u,z,w
+MessageTest,main,EmailMessage:1,send,EmailMessageSender:1,sendMessage,TextMessage:1,EmailMessageSender:1,TextMessageSender:1
+MessageTest,main,TextMessage:1,send,TextMessageSender:1,sendMessage,EmailMessage:1,TextMessageSender:1,EmailMessageSender:1
