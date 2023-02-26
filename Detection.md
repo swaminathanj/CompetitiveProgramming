@@ -17,7 +17,7 @@ The table below provides the complete details of experiments carried out for des
     <th>DP_UI</th>
   </tr>
   <tr>
-    <td>Abstract Factory <br> <a href="abstractfactory/OtherExamples">(5 more examples)</a></td>
+    <td>Abstract Factory <br> <a href="abstractfactory/OtherExamples">(more examples)</a></td>
     <td>Gourmet PizzaFactory</td>
     <td>
       <a href="abstractfactory/BasePizzaFactory.java">BasePizzaFactory.javaa</a><br>
@@ -45,7 +45,7 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="abstractfactory/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Adapter <br> <a href="adapter/OtherExamples">(5 more examples)</a></td>
+    <td>Adapter <br> <a href="adapter/OtherExamples">(more examples)</a></td>
     <td>Csv Adapter</td>
     <td>
       <a href="adapter/CsvAdapterImpl.java">CsvAdapterImpl.java</a><br>
@@ -64,7 +64,7 @@ The table below provides the complete details of experiments carried out for des
  
   </tr>
   <tr>
-    <td>Bridge <br> <a href="bridge/OtherExamples">(5 more examples)</a></td>
+    <td>Bridge <br> <a href="bridge/OtherExamples">(more examples)</a></td>
     <td>Message</td>
     <td>
       <a href="bridge/EmailMessage.java">EmailMessage.java</a><br>
@@ -83,7 +83,7 @@ The table below provides the complete details of experiments carried out for des
  
   </tr>
   <tr>
-    <td>Builder</td>
+    <td>Builder <br> <a href="builder/OtherExamples">(more examples)</a></td>
     <td>Construction House</td>
     <td>
       <a href="builder/ConcreteHouseBuilder.java">ConcreteHouseBuilder.java</a><br>
@@ -96,6 +96,9 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="builder/trace.csv">trace.csv</a></td>
     <td><a href="builder/calltree.png">calltree.png</a> <br> <a href="builder/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="builder/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="builder/Result.csv">Result.csv</a> <br> <a href="builder/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="builder/dp_ui.png">dp_ui.png</a></td>
+ 
   </tr>
   <tr>
     <td>Chain of Responsibility</td>
