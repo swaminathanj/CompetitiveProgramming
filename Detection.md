@@ -78,6 +78,9 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="bridge/trace.csv">trace.csv</a></td>
     <td><a href="bridge/calltree.png">calltree.png</a> <br> <a href="bridge/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="bridge/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="bridge/Result.csv">Result.csv</a> <br> <a href="bridge/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="bridge/dp_ui.png">dp_ui.png</a></td>
+ 
   </tr>
   <tr>
     <td>Builder</td>
