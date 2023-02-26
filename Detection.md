@@ -64,7 +64,7 @@ The table below provides the complete details of experiments carried out for des
  
   </tr>
   <tr>
-    <td>Bridge</td>
+    <td>Bridge <br> <a href="bridge/OtherExamples">(5 more examples)</a></td>
     <td>Message</td>
     <td>
       <a href="bridge/EmailMessage.java">EmailMessage.java</a><br>
