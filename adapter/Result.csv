@@ -1,0 +1,6 @@
+x,m,y,n,w,n,z,p,y,w,n,w,z
+NewLineFormatterTest,main,NewLineFormatter:1,formatText,CsvAdapterImpl:1,formatText,CsvFormatter:1,formatCsvText,NewLineFormatter:1,CsvAdapterImpl:1,formatText,CsvAdapterImpl:1,CsvFormatter:1
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+client,ITarget,Itarget.request,Adapter,Adaptee,Adapee.specialRequest,,,,,,,
+NewLineFormatterTest,NewLineFormatter:1,formatText,CsvAdapterImpl:1,CsvFormatter:1,formatCsvText,,,,,,,

@@ -1,0 +1,2 @@
+x,m,y,n,w,z,p
+NewLineFormatterTest,main,NewLineFormatter:1,formatText,CsvAdapterImpl:1,CsvFormatter:1,formatCsvText
