@@ -101,7 +101,7 @@ The table below provides the complete details of experiments carried out for des
  
   </tr>
   <tr>
-    <td>Chain of Responsibility</td>
+    <td>Chain of Responsibility <br> <a href="chainofresp/OtherExamples">(more examples)</a></td>
     <td>Logger</td>
     <td>
       <a href="chainofresp/ChainOfResponsibilityClient.java">ChainOfResponsibilityClient.java</a><br>
@@ -114,6 +114,9 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="chainofresp/trace.csv">trace.csv</a></td>
     <td><a href="chainofresp/calltree.png">calltree.png</a> <br> <a href="chainofresp/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="chainofresp/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="chainofresp/Result.csv">Result.csv</a> <br> <a href="chainofresp/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="chainofresp/dp_ui.png">dp_ui.png</a></td>
+ 
   </tr>
   <tr>
     <td>Command</td>
