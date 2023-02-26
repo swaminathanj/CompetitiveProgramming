@@ -1,0 +1,7 @@
+x,m,y,n,w,w,z,z,u,u,z,s,v,p
+ChainOfResponsibilityClient,main,RequestorClient,doChaining,ConsoleBasedLogger:1,ConsoleBasedLogger,Logger:1,Logger,DebugBasedLogger:1,DebugBasedLogger,Logger:1,setNextLevelLogger,Logger:2,displayLogInfo
+ChainOfResponsibilityClient,main,RequestorClient,doChaining,ConsoleBasedLogger:1,ConsoleBasedLogger,Logger:1,Logger,DebugBasedLogger:1,DebugBasedLogger,Logger:1,setNextLevelLogger,Logger:2,displayLogInfo
+ChainOfResponsibilityClient,main,RequestorClient,doChaining,ConsoleBasedLogger:1,ConsoleBasedLogger,Logger:1,Logger,DebugBasedLogger:1,DebugBasedLogger,Logger:1,setNextLevelLogger,Logger:2,displayLogInfo
+ChainOfResponsibilityClient,main,RequestorClient,doChaining,ConsoleBasedLogger:1,ConsoleBasedLogger,Logger:1,Logger,ErrorBasedLogger:1,ErrorBasedLogger,Logger:1,setNextLevelLogger,Logger:2,displayLogInfo
+ChainOfResponsibilityClient,main,RequestorClient,doChaining,ConsoleBasedLogger:1,ConsoleBasedLogger,Logger:1,Logger,ErrorBasedLogger:1,ErrorBasedLogger,Logger:1,setNextLevelLogger,Logger:2,displayLogInfo
+ChainOfResponsibilityClient,main,RequestorClient,doChaining,ConsoleBasedLogger:1,ConsoleBasedLogger,Logger:1,Logger,ErrorBasedLogger:1,ErrorBasedLogger,Logger:1,setNextLevelLogger,Logger:2,displayLogInfo
