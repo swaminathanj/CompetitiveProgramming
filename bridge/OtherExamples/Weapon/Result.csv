@@ -1,0 +1,7 @@
+x,m,y,n,y,n,z,q,y,u,n,z,w,q,y,z
+Weapon_Enhance,main,Hammer:1,swing,Hammer:1,swing,FlyingEnchantment:1,apply,Hammer:1,Sword:1,swing,FlyingEnchantment:1,SoulEatingEnchantment:1,apply,Hammer:1,FlyingEnchantment:1
+Weapon_Enhance,main,Hammer:1,unwield,Hammer:1,unwield,FlyingEnchantment:1,onDeactivate,Hammer:1,Sword:1,unwield,FlyingEnchantment:1,SoulEatingEnchantment:1,onDeactivate,Hammer:1,FlyingEnchantment:1
+Weapon_Enhance,main,Hammer:1,wield,Hammer:1,wield,FlyingEnchantment:1,onActivate,Hammer:1,Sword:1,wield,FlyingEnchantment:1,SoulEatingEnchantment:1,onActivate,Hammer:1,FlyingEnchantment:1
+Weapon_Enhance,main,Sword:1,swing,Sword:1,swing,SoulEatingEnchantment:1,apply,Sword:1,Hammer:1,swing,SoulEatingEnchantment:1,FlyingEnchantment:1,apply,Sword:1,SoulEatingEnchantment:1
+Weapon_Enhance,main,Sword:1,unwield,Sword:1,unwield,SoulEatingEnchantment:1,onDeactivate,Sword:1,Hammer:1,unwield,SoulEatingEnchantment:1,FlyingEnchantment:1,onDeactivate,Sword:1,SoulEatingEnchantment:1
+Weapon_Enhance,main,Sword:1,wield,Sword:1,wield,SoulEatingEnchantment:1,onActivate,Sword:1,Hammer:1,wield,SoulEatingEnchantment:1,FlyingEnchantment:1,onActivate,Sword:1,SoulEatingEnchantment:1
