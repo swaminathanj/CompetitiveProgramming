@@ -1,0 +1,9 @@
+x,m,y,n,y,n,z,n,y,z,n,y,z
+Composite_Catalog,main,ProductCatalog:3,print,ProductCatalog:3,print,Product:1,print,ProductCatalog:3,Product:1,print,ProductCatalog:3,Product:1
+Composite_Catalog,main,ProductCatalog:3,print,ProductCatalog:3,print,Product:2,print,ProductCatalog:3,Product:2,print,ProductCatalog:3,Product:2
+Composite_Catalog,main,ProductCatalog:3,print,ProductCatalog:3,print,ProductCatalog:1,print,ProductCatalog:3,ProductCatalog:1,print,ProductCatalog:3,ProductCatalog:1
+Composite_Catalog,main,ProductCatalog:3,print,ProductCatalog:3,print,ProductCatalog:2,print,ProductCatalog:3,ProductCatalog:2,print,ProductCatalog:3,ProductCatalog:2
+ProductCatalog:3,print,ProductCatalog:1,print,ProductCatalog:1,print,Product:3,print,ProductCatalog:1,Product:3,print,ProductCatalog:1,Product:3
+ProductCatalog:3,print,ProductCatalog:1,print,ProductCatalog:1,print,Product:4,print,ProductCatalog:1,Product:4,print,ProductCatalog:1,Product:4
+ProductCatalog:3,print,ProductCatalog:2,print,ProductCatalog:2,print,Product:5,print,ProductCatalog:2,Product:5,print,ProductCatalog:2,Product:5
+ProductCatalog:3,print,ProductCatalog:2,print,ProductCatalog:2,print,Product:6,print,ProductCatalog:2,Product:6,print,ProductCatalog:2,Product:6
