@@ -1,0 +1,7 @@
+x,m,y,n,z,q,y,p,w,r
+CarFactory,buildCar,INDIACarFactory,buildCar,LuxuryCar:1,LuxuryCar,INDIACarFactory,buildCar,MicroCar:1,MicroCar
+CarFactory,buildCar,INDIACarFactory,buildCar,LuxuryCar:1,LuxuryCar,INDIACarFactory,buildCar,MiniCar:1,MiniCar
+CarFactory,buildCar,INDIACarFactory,buildCar,MicroCar:1,MicroCar,INDIACarFactory,buildCar,LuxuryCar:1,LuxuryCar
+CarFactory,buildCar,INDIACarFactory,buildCar,MicroCar:1,MicroCar,INDIACarFactory,buildCar,MiniCar:1,MiniCar
+CarFactory,buildCar,INDIACarFactory,buildCar,MiniCar:1,MiniCar,INDIACarFactory,buildCar,LuxuryCar:1,LuxuryCar
+CarFactory,buildCar,INDIACarFactory,buildCar,MiniCar:1,MiniCar,INDIACarFactory,buildCar,MicroCar:1,MicroCar
