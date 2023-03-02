@@ -1,0 +1,5 @@
+x,m,y,n,y,n,z,p,y,n,z
+PizzaFactoryTest,main,PizzaFactory:1,createPizza,PizzaFactory:1,createPizza,CheesePizza:1,addIngredients,PizzaFactory:1,createPizza,CheesePizza:1
+PizzaFactoryTest,main,PizzaFactory:1,createPizza,PizzaFactory:1,createPizza,CheesePizza:1,CheesePizza,PizzaFactory:1,createPizza,CheesePizza:1
+PizzaFactoryTest,main,PizzaFactory:1,createPizza,PizzaFactory:1,createPizza,VeggiePizza:1,addIngredients,PizzaFactory:1,createPizza,VeggiePizza:1
+PizzaFactoryTest,main,PizzaFactory:1,createPizza,PizzaFactory:1,createPizza,VeggiePizza:1,VeggiePizza,PizzaFactory:1,createPizza,VeggiePizza:1
