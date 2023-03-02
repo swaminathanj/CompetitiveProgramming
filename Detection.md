@@ -119,7 +119,7 @@ The table below provides the complete details of experiments carried out for des
  
   </tr>
   <tr>
-    <td>Command</td>
+    <td>Command  <br> <a href="command/OtherExamples">(more examples)</a></td>
     <td>Remote Control</td>
     <td>
       <a href="command/Car.java">Car.java</a><br>
@@ -135,9 +135,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="command/trace.csv">trace.csv</a></td>
     <td><a href="command/calltree.png">calltree.png</a> <br> <a href="command/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="command/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="command/Result.csv">Result.csv</a> <br> <a href="command/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="command/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Composite</td>
+    <td>Composite  <br> <a href="composite/OtherExamples">(more examples)</a></td>
     <td>Catalog</td>
     <td>
       <a href="composite/CatalogComponent.java">CatalogComponent.java</a><br>
@@ -148,9 +150,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="composite/trace.csv">trace.csv</a></td>
     <td><a href="composite/calltree.png">calltree.png</a> <br> <a href="composite/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="composite/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="composite/Result.csv">Result.csv</a> <br> <a href="composite/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="composite/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Decorator</td>
+    <td>Decorator <br> <a href="decorator/OtherExamples">(more examples)</a></td>
     <td>Flower Bouquet</td>
     <td>
       <a href="decorator/FlowerBouquet.java">FlowerBouquet.java</a><br>
@@ -165,9 +169,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="decorator/trace.csv">trace.csv</a></td>
     <td><a href="decorator/calltree.png">calltree.png</a> <br> <a href="decorator/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="decorator/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="decorator/Result.csv">Result.csv</a> <br> <a href="decorator/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="decorator/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Facade</td>
+    <td>Facade <br> <a href="facade/OtherExamples">(more examples)</a></td>
     <td>Order Controller</td>
     <td>
       <a href="facade/InventoryService.java">InventoryService.java</a><br>
@@ -182,6 +188,8 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="facade/trace.csv">trace.csv</a></td>
     <td><a href="facade/calltree.png">calltree.png</a> <br> <a href="facade/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="facade/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="facade/Result.csv">Result.csv</a> <br> <a href="facade/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="facade/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
     <td>Factory Method</td>
