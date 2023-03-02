@@ -1,0 +1,3 @@
+x,m,y,n,y,n,z,q,x,m,y,p,y,p,w,r,y,n,z,y,p,w
+CourseMain,main,FactoryCreator,getSourceCourseFactory,FactoryCreator,getSourceCourseFactory,CourseFactory:1,CourseFactory,CourseMain,main,FactoryCreator,getSourceCourseFactory,FactoryCreator,getSourceCourseFactory,SourceFactory:1,SourceFactory,FactoryCreator,getSourceCourseFactory,CourseFactory:1,FactoryCreator,getSourceCourseFactory,SourceFactory:1
+CourseMain,main,FactoryCreator,getSourceCourseFactory,FactoryCreator,getSourceCourseFactory,SourceFactory:1,SourceFactory,CourseMain,main,FactoryCreator,getSourceCourseFactory,FactoryCreator,getSourceCourseFactory,CourseFactory:1,CourseFactory,FactoryCreator,getSourceCourseFactory,SourceFactory:1,FactoryCreator,getSourceCourseFactory,CourseFactory:1
