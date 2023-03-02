@@ -1,0 +1,3 @@
+x,m,y,y,z,z,w,w,n,q,z,r,u
+Action_Client,main,MenuOptions:1,MenuOptions,Document:1,Document,ActionOpen:1,ActionOpen,clickOpen,execute,Document:1,open,ActionSave:1
+Action_Client,main,MenuOptions:1,MenuOptions,Document:1,Document,ActionSave:1,ActionSave,clickSave,execute,Document:1,save,ActionOpen:1
