@@ -1,0 +1,11 @@
+x,m,y,n,z,m,q,w,p
+RaceCarClient:2,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:1,RaceCarClient,moveCar,FlyweightMidgetCar:1,moveCar
+RaceCarClient:2,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:3,RaceCarClient,moveCar,FlyweightMidgetCar:1,moveCar
+RaceCarClient:3,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:1,RaceCarClient,moveCar,FlyweightMidgetCar:1,moveCar
+RaceCarClient:3,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:2,RaceCarClient,moveCar,FlyweightMidgetCar:1,moveCar
+RaceCarClient:4,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:5,RaceCarClient,moveCar,FlyweightSprintCar:1,moveCar
+RaceCarClient:4,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:6,RaceCarClient,moveCar,FlyweightSprintCar:1,moveCar
+RaceCarClient:5,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:4,RaceCarClient,moveCar,FlyweightSprintCar:1,moveCar
+RaceCarClient:5,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:6,RaceCarClient,moveCar,FlyweightSprintCar:1,moveCar
+RaceCarClient:6,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:4,RaceCarClient,moveCar,FlyweightSprintCar:1,moveCar
+RaceCarClient:6,RaceCarClient,CarFactory,getRaceCar,RaceCarClient:5,RaceCarClient,moveCar,FlyweightSprintCar:1,moveCar
