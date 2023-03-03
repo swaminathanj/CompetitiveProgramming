@@ -1,0 +1,9 @@
+x,m,y,q,z,w,v
+Expression_Eval,main,AndExpression:1,interpret,TerminalExpression:3,OrExpression:1,TerminalExpression:1
+Expression_Eval,main,AndExpression:1,interpret,TerminalExpression:3,OrExpression:1,TerminalExpression:2
+Expression_Eval,main,AndExpression:1,interpret,TerminalExpression:4,OrExpression:1,TerminalExpression:1
+Expression_Eval,main,AndExpression:1,interpret,TerminalExpression:4,OrExpression:1,TerminalExpression:2
+Expression_Eval,main,OrExpression:1,interpret,TerminalExpression:1,AndExpression:1,TerminalExpression:3
+Expression_Eval,main,OrExpression:1,interpret,TerminalExpression:1,AndExpression:1,TerminalExpression:4
+Expression_Eval,main,OrExpression:1,interpret,TerminalExpression:2,AndExpression:1,TerminalExpression:3
+Expression_Eval,main,OrExpression:1,interpret,TerminalExpression:2,AndExpression:1,TerminalExpression:4
