@@ -1,0 +1,9 @@
+x,m,y,q,z,w,v
+ExpressionParser:1,parse,AdditionExpression:1,interpret,NumberExpression:2,MultiplicationExpression:1,NumberExpression:1
+ExpressionParser:1,parse,AdditionExpression:1,interpret,NumberExpression:2,MultiplicationExpression:1,NumberExpression:4
+ExpressionParser:1,parse,AdditionExpression:1,interpret,NumberExpression:3,MultiplicationExpression:1,NumberExpression:1
+ExpressionParser:1,parse,AdditionExpression:1,interpret,NumberExpression:3,MultiplicationExpression:1,NumberExpression:4
+ExpressionParser:1,parse,MultiplicationExpression:1,interpret,NumberExpression:1,AdditionExpression:1,NumberExpression:2
+ExpressionParser:1,parse,MultiplicationExpression:1,interpret,NumberExpression:1,AdditionExpression:1,NumberExpression:3
+ExpressionParser:1,parse,MultiplicationExpression:1,interpret,NumberExpression:4,AdditionExpression:1,NumberExpression:2
+ExpressionParser:1,parse,MultiplicationExpression:1,interpret,NumberExpression:4,AdditionExpression:1,NumberExpression:3
