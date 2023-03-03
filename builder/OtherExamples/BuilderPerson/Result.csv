@@ -1,0 +1,12 @@
+x,m,y,n,y,n,z,p,z,p,w
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:1,address,Person$PersonBuilder:1,build,Person:1
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:1,age,Person$PersonBuilder:1,build,Person:1
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:1,build,Person$PersonBuilder:1,build,Person:1
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:1,Person$PersonBuilder,Person$PersonBuilder:1,build,Person:1
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:1,phone,Person$PersonBuilder:1,build,Person:1
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:2,age,Person$PersonBuilder:2,build,Person:2
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:2,build,Person$PersonBuilder:2,build,Person:2
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:2,Person$PersonBuilder,Person$PersonBuilder:2,build,Person:2
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:2,phone,Person$PersonBuilder:2,build,Person:2
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:3,build,Person$PersonBuilder:3,build,Person:3
+SYSTEM,SYSTEM,BuilderPatternPerson,main,BuilderPatternPerson,main,Person$PersonBuilder:3,Person$PersonBuilder,Person$PersonBuilder:3,build,Person:3
