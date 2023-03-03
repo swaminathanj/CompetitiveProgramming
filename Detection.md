@@ -192,7 +192,7 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="facade/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Factory Method</td>
+    <td>Factory Method <br> <a href="factorymethod/OtherExamples">(more examples)</a></td>
     <td>Pizza Factory</td>
     <td>
       <a href="factorymethod/BasePizzaFactory.java">BasePizzaFactory.java</a><br>
@@ -206,9 +206,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="factorymethod/trace.csv">trace.csv</a></td>
     <td><a href="factorymethod/calltree.png">calltree.png</a> <br> <a href="factorymethod/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="factorymethod/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="factorymethod/Result.csv">Result.csv</a> <br> <a href="factorymethod/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="factorymethod/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Flyweight</td>
+    <td>Flyweight <br> <a href="flyweight/OtherExamples">(more examples)</a></td>
     <td>Race Car</td>
     <td>
       <a href="flyweight/CarFactory.java">CarFactory.java</a><br>
@@ -221,9 +223,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="flyweight/trace.csv">trace.csv</a></td>
     <td><a href="flyweight/calltree.png">calltree.png</a> <br> <a href="flyweight/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="flyweight/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="flyweight/Result.csv">Result.csv</a> <br> <a href="flyweight/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="flyweight/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Interpreter</td>
+    <td>Interpreter  <br> <a href="interpreter/OtherExamples">(more examples)</a></td>
     <td>Expression Parser</td>
     <td>
       <a href="interpreter/AdditionExpression.java">AdditionExpression.java</a><br>
@@ -238,9 +242,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="interpreter/trace.csv">trace.csv</a></td>
     <td><a href="interpreter/calltree.png">calltree.png</a> <br> <a href="interpreter/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="interpreter/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="interpreter/Result.csv">Result.csv</a> <br> <a href="interpreter/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="interpreter/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Iterator</td>
+    <td>Iterator  <br> <a href="iterator/OtherExamples">(more examples)</a></td>
     <td>Pattern Iterator</td>
     <td>
       <a href="iterator/DesignPattern.java">DesignPattern.java</a><br>
@@ -253,9 +259,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="iterator/trace.csv">trace.csv</a></td>
     <td><a href="iterator/calltree.png">calltree.png</a> <br> <a href="iterator/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="iterator/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="iterator/Result.csv">Result.csv</a> <br> <a href="iterator/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="iterator/dp_ui.png">dp_ui.png</a></td> 
   </tr>
   <tr>
-    <td>Mediator</td>
+    <td>Mediator <br> <a href="mediator/OtherExamples">(more examples)</a></td>
     <td>ArmedUnit Commander</td>
     <td>
       <a href="mediator/ArmedUnit.java>ArmedUnit.java</a><br>
@@ -268,9 +276,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="mediator/trace.csv">trace.csv</a></td>
     <td><a href="mediator/calltree.png">calltree.png</a> <br> <a href="mediator/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="mediator/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="mediator/Result.csv">Result.csv</a> <br> <a href="mediator/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="mediator/dp_ui.png">dp_ui.png</a></td> 
   </tr>
   <tr>
-    <td>Memento</td>
+    <td>Memento <br> <a href="memento/OtherExamples">(more examples)</a></td>
     <td>Employee Orginator</td>
     <td>
       <a href="memento/EmpCaretaker.java">EmpCaretaker.java</a><br>
@@ -281,9 +291,12 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="memento/trace.csv">trace.csv</a></td>
     <td><a href="memento/calltree.png">calltree.png</a> <br> <a href="memento/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="memento/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="memento/Result.csv">Result.csv</a> <br> <a href="memento/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="memento/dp_ui.png">dp_ui.png</a></td>                                         
+                                            
   </tr>
   <tr>
-    <td>Observer</td>
+    <td>Observer <br> <a href="observer/OtherExamples">(more examples)</a></td>
     <td>Product Bidder</td>
     <td>
       <a href="observer/Bidder.java">Bidder.java</a><br>
@@ -295,9 +308,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="observer/trace.csv">trace.csv</a></td>
     <td><a href="observer/calltree.png">calltree.png</a> <br> <a href="observer/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="observer/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="observer/Result.csv">Result.csv</a> <br> <a href="observer/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="observer/dp_ui.png">dp_ui.png</a></td>                                         
   </tr>
   <tr>
-    <td>Prototype</td>
+    <td>Prototype  <br> <a href="prototype/OtherExamples">(more examples)</a></td>
     <td>Document Prototype</td>
     <td>
       <a href="prototype/AuthorizedSignatory.java">AuthorizedSignatory.java</a><br>
@@ -310,9 +325,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="prototype/trace.csv">trace.csv</a></td>
     <td><a href="prototype/calltree.png">calltree.png</a> <br> <a href="prototype/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="prototype/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="prototype/Result.csv">Result.csv</a> <br> <a href="prototype/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="prototype/dp_ui.png">dp_ui.png</a></td>                                           
   </tr>
   <tr>
-    <td>Proxy</td>
+    <td>Proxy  <br> <a href="proxy/OtherExamples">(more examples)</a></td>
     <td>Report Generator</td>
     <td>
       <a href="proxy/ReportGenerator.java">ReportGenerator.java</a><br>
@@ -324,9 +341,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="proxy/trace.csv">trace.csv</a></td>
     <td><a href="proxy/calltree.png">calltree.png</a> <br> <a href="proxy/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="proxy/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="proxy/Result.csv">Result.csv</a> <br> <a href="proxy/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="proxy/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Singleton</td>
+    <td>Singleton <br> <a href="singleton/OtherExamples">(more examples)</a</td>
     <td>Singleton Demo</td>
     <td>
       <a href="singleton/SingleObject.java">SingleObject.java</a><br>
@@ -335,9 +354,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="singleton/trace.csv">trace.csv</a></td>
     <td><a href="singleton/calltree.png">calltree.png</a> <br> <a href="singleton/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="singleton/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="singleton/Result.csv">Result.csv</a> <br> <a href="singleton/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="singleton/dp_ui.png">dp_ui.png</a></td>                                           
   </tr>
   <tr>
-    <td>State</td>
+    <td>State <br> <a href="state/OtherExamples">(more examples)</a></td>
     <td>VendingMachine</td>
     <td>
       <a href="state/CandyVendingMachine.java">CandyVendingMachine.java</a><br>
@@ -351,9 +372,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="state/trace.csv">trace.csv</a></td>
     <td><a href="state/calltree.png">calltree.png</a> <br> <a href="state/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="state/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="state/Result.csv">Result.csv</a> <br> <a href="state/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="state/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Strategy</td>
+    <td>Strategy <br> <a href="strategy/OtherExamples">(more examples)</a></td>
     <td>Encryptor</td>
     <td>
       <a href="strategy/AesEncryptionStrategy.java">AesEncryptionStrategy.java</a><br>
@@ -365,9 +388,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="strategy/trace.csv">trace.csv</a></td>
     <td><a href="strategy/calltree.png">calltree.png</a> <br> <a href="strategy/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="strategy/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="strategy/Result.csv">Result.csv</a> <br> <a href="strategy/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="strategy/dp_ui.png">dp_ui.png</a></td>
   </tr>
   <tr>
-    <td>Template Method</td>
+    <td>Template Method <br> <a href="template/OtherExamples">(more examples)</a></td>
     <td>Pizza Maker</td>
     <td>
       <a href="template/InHouseAssortedPizzaMaker.java">InHouseAssortedPizzaMaker.java</a><br>
@@ -379,9 +404,11 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="template/trace.csv">trace.csv</a></td>
     <td><a href="template/calltree.png">calltree.png</a> <br> <a href="template/calltree_dp.png">calltree_dp.png</a></td>
     <td><a href="template/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="template/Result.csv">Result.csv</a> <br> <a href="template/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="template/dp_ui.png">dp_ui.png</a></td>                                         
   </tr>
   <tr>
-    <td>Visitor</td>
+    <td>Visitor <br> <a href="visitor/OtherExamples">(more examples)</a></td>
     <td>Mail Client Visitor</td>
     <td>
       <a href="visitor/LinuxMailClientVisitor.java">LinuxMailClientVisitor.java</a><br>
@@ -397,5 +424,7 @@ The table below provides the complete details of experiments carried out for des
     <td><a href="visitor/trace.csv">trace.csv</a></td>
     <td><a href="visitor/calltree.png">calltree.png</a> <br> <a href="visitor/calltree_dp.png">calltree_dp.png</a> </td>
     <td><a href="visitor/sequencediagram.png">sequencediagram.png</a></td>
+    <td><a href="visitor/Result.csv">Result.csv</a> <br> <a href="visitor/dp_result.csv">dp_result.csv</a></td>
+    <td><a href="visitor/dp_ui.png">dp_ui.png</a></td>                                          
   </tr>
 </table>
