@@ -1,0 +1,3 @@
+x,m,z,n,z,n,y,n,y,z,n,z,y
+ReportGeneratorImplProxyTest,main,ReportGeneratorImplProxy:1,generateComplexReport,ReportGeneratorImplProxy:1,generateComplexReport,ReportGeneratorImpl:1,generateComplexReport,ReportGeneratorImpl:1,ReportGeneratorImplProxy:1,generateComplexReport,ReportGeneratorImplProxy:1,ReportGeneratorImpl:1
+ReportGeneratorImplProxyTest,main,ReportGeneratorImplProxy:1,generateSensitiveReport,ReportGeneratorImplProxy:1,generateSensitiveReport,ReportGeneratorImpl:1,generateSensitiveReport,ReportGeneratorImpl:1,ReportGeneratorImplProxy:1,generateSensitiveReport,ReportGeneratorImplProxy:1,ReportGeneratorImpl:1
