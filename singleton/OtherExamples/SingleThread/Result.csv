@@ -1,0 +1,2 @@
+x,m,Y,n,Y,n,y,Y,y
+DemoSingleThread,main,Singleton,getInstance,Singleton,getInstance,Singleton:1,Singleton,Singleton:1
