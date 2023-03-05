@@ -1,0 +1,3 @@
+x,m,Y,n,y
+SingletonPatternDemo,main,SingleObject,<clinit>,SingleObject:1
+SingletonPatternDemo,main,SingleObject,getInstance,SingleObject:1
