@@ -1,0 +1,7 @@
+x,m,y,y,z,z,q,r,w
+Calculator_Strategy,main,Context:1,Context,OperationAdd:1,OperationAdd,executeStrategy,doOperation,OperationMultiply:1
+Calculator_Strategy,main,Context:1,Context,OperationAdd:1,OperationAdd,executeStrategy,doOperation,OperationSubstract:1
+Calculator_Strategy,main,Context:2,Context,OperationSubstract:1,OperationSubstract,executeStrategy,doOperation,OperationAdd:1
+Calculator_Strategy,main,Context:2,Context,OperationSubstract:1,OperationSubstract,executeStrategy,doOperation,OperationMultiply:1
+Calculator_Strategy,main,Context:3,Context,OperationMultiply:1,OperationMultiply,executeStrategy,doOperation,OperationAdd:1
+Calculator_Strategy,main,Context:3,Context,OperationMultiply:1,OperationMultiply,executeStrategy,doOperation,OperationSubstract:1

@@ -1,0 +1,7 @@
+x,m,y,y,x,m,z,z,y,q,z,r,z,w,r,y,z
+Calculator_Strategy,main,Context:1,Context,Calculator_Strategy,main,OperationAdd:1,OperationAdd,Context:1,executeStrategy,OperationAdd:1,doOperation,OperationAdd:1,OperationMultiply:1,doOperation,Context:1,OperationAdd:1
+Calculator_Strategy,main,Context:1,Context,Calculator_Strategy,main,OperationAdd:1,OperationAdd,Context:1,executeStrategy,OperationAdd:1,doOperation,OperationAdd:1,OperationSubstract:1,doOperation,Context:1,OperationAdd:1
+Calculator_Strategy,main,Context:2,Context,Calculator_Strategy,main,OperationSubstract:1,OperationSubstract,Context:2,executeStrategy,OperationSubstract:1,doOperation,OperationSubstract:1,OperationAdd:1,doOperation,Context:2,OperationSubstract:1
+Calculator_Strategy,main,Context:2,Context,Calculator_Strategy,main,OperationSubstract:1,OperationSubstract,Context:2,executeStrategy,OperationSubstract:1,doOperation,OperationSubstract:1,OperationMultiply:1,doOperation,Context:2,OperationSubstract:1
+Calculator_Strategy,main,Context:3,Context,Calculator_Strategy,main,OperationMultiply:1,OperationMultiply,Context:3,executeStrategy,OperationMultiply:1,doOperation,OperationMultiply:1,OperationAdd:1,doOperation,Context:3,OperationMultiply:1
+Calculator_Strategy,main,Context:3,Context,Calculator_Strategy,main,OperationMultiply:1,OperationMultiply,Context:3,executeStrategy,OperationMultiply:1,doOperation,OperationMultiply:1,OperationSubstract:1,doOperation,Context:3,OperationMultiply:1
