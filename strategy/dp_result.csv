@@ -1,0 +1,12 @@
+x,m,y,n,z,p,q
+GumballMachineTestDrive,main,GumballMachine:1,ejectQuarter,HasQuarterState:1,ejectQuarter,getNoQuarterState
+GumballMachineTestDrive,main,GumballMachine:1,ejectQuarter,HasQuarterState:1,ejectQuarter,setState
+GumballMachineTestDrive,main,GumballMachine:1,insertQuarter,NoQuarterState:1,insertQuarter,getHasQuarterState
+GumballMachineTestDrive,main,GumballMachine:1,insertQuarter,NoQuarterState:1,insertQuarter,setState
+GumballMachineTestDrive,main,GumballMachine:1,turnCrank,HasQuarterState:1,turnCrank,getSoldState
+GumballMachineTestDrive,main,GumballMachine:1,turnCrank,HasQuarterState:1,turnCrank,setState
+GumballMachineTestDrive,main,GumballMachine:1,turnCrank,SoldState:1,dispense,getCount
+GumballMachineTestDrive,main,GumballMachine:1,turnCrank,SoldState:1,dispense,getNoQuarterState
+GumballMachineTestDrive,main,GumballMachine:1,turnCrank,SoldState:1,dispense,getSoldOutState
+GumballMachineTestDrive,main,GumballMachine:1,turnCrank,SoldState:1,dispense,releaseBall
+GumballMachineTestDrive,main,GumballMachine:1,turnCrank,SoldState:1,dispense,setState
