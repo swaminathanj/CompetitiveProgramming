@@ -1,0 +1,7 @@
+x,m,y,y,z,z,p,q,w
+Tax_Visitor,main,Milk:1,Milk,TaxCalculator:1,TaxCalculator,acceptVisitor,visit,OtherStuff:1
+Tax_Visitor,main,Milk:1,Milk,TaxCalculator:1,TaxCalculator,acceptVisitor,visit,Pizza:1
+Tax_Visitor,main,OtherStuff:1,OtherStuff,TaxCalculator:1,TaxCalculator,acceptVisitor,visit,Milk:1
+Tax_Visitor,main,OtherStuff:1,OtherStuff,TaxCalculator:1,TaxCalculator,acceptVisitor,visit,Pizza:1
+Tax_Visitor,main,Pizza:1,Pizza,TaxCalculator:1,TaxCalculator,acceptVisitor,visit,Milk:1
+Tax_Visitor,main,Pizza:1,Pizza,TaxCalculator:1,TaxCalculator,acceptVisitor,visit,OtherStuff:1

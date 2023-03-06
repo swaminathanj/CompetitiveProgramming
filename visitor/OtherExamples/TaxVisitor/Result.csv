@@ -1,0 +1,7 @@
+x,m,y,y,x,m,z,z,x,m,y,p,y,p,z,q,y,w,p
+Tax_Visitor,main,Milk:1,Milk,Tax_Visitor,main,TaxCalculator:1,TaxCalculator,Tax_Visitor,main,Milk:1,acceptVisitor,Milk:1,acceptVisitor,TaxCalculator:1,visit,Milk:1,OtherStuff:1,acceptVisitor
+Tax_Visitor,main,Milk:1,Milk,Tax_Visitor,main,TaxCalculator:1,TaxCalculator,Tax_Visitor,main,Milk:1,acceptVisitor,Milk:1,acceptVisitor,TaxCalculator:1,visit,Milk:1,Pizza:1,acceptVisitor
+Tax_Visitor,main,OtherStuff:1,OtherStuff,Tax_Visitor,main,TaxCalculator:1,TaxCalculator,Tax_Visitor,main,OtherStuff:1,acceptVisitor,OtherStuff:1,acceptVisitor,TaxCalculator:1,visit,OtherStuff:1,Milk:1,acceptVisitor
+Tax_Visitor,main,OtherStuff:1,OtherStuff,Tax_Visitor,main,TaxCalculator:1,TaxCalculator,Tax_Visitor,main,OtherStuff:1,acceptVisitor,OtherStuff:1,acceptVisitor,TaxCalculator:1,visit,OtherStuff:1,Pizza:1,acceptVisitor
+Tax_Visitor,main,Pizza:1,Pizza,Tax_Visitor,main,TaxCalculator:1,TaxCalculator,Tax_Visitor,main,Pizza:1,acceptVisitor,Pizza:1,acceptVisitor,TaxCalculator:1,visit,Pizza:1,Milk:1,acceptVisitor
+Tax_Visitor,main,Pizza:1,Pizza,Tax_Visitor,main,TaxCalculator:1,TaxCalculator,Tax_Visitor,main,Pizza:1,acceptVisitor,Pizza:1,acceptVisitor,TaxCalculator:1,visit,Pizza:1,OtherStuff:1,acceptVisitor
