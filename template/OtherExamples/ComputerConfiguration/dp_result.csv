@@ -1,0 +1,7 @@
+x,m,y,n,z,q,p,w
+ComputerConfiguration,main,ComputerBuilder:1,buildComputer,StandardComputerBuilder:1,addMotherboard,getComputer,HighEndComputerBuilder:1
+ComputerConfiguration,main,ComputerBuilder:1,buildComputer,StandardComputerBuilder:1,addProcessor,getComputer,HighEndComputerBuilder:1
+ComputerConfiguration,main,ComputerBuilder:1,buildComputer,StandardComputerBuilder:1,setupMotherboard,getComputer,HighEndComputerBuilder:1
+ComputerConfiguration,main,ComputerBuilder:2,buildComputer,HighEndComputerBuilder:1,addMotherboard,getComputer,StandardComputerBuilder:1
+ComputerConfiguration,main,ComputerBuilder:2,buildComputer,HighEndComputerBuilder:1,addProcessor,getComputer,StandardComputerBuilder:1
+ComputerConfiguration,main,ComputerBuilder:2,buildComputer,HighEndComputerBuilder:1,setupMotherboard,getComputer,StandardComputerBuilder:1
